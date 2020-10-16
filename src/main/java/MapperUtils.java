@@ -2,7 +2,7 @@ import java.math.BigDecimal;
 
 public class MapperUtils {
     public MapperUtils() {}
-    public static Object parseStringObject(String object) {
+    public static Object parseStringValue(String object) {
         try {
             return Integer.parseInt(object);
         }

@@ -1,13 +1,6 @@
-<?xml version="1.0"?>
-<contact-info>
-    <contact1 type="engineer">
-        <name>Vimal Jaiswal</name>
-        <company>SSSIT.org</company>
-        <phone>(0120) 4256464</phone>
-    </contact1>
-    <contact2 type="marketing">
-        <name>Mahesh Sharma </name>
-        <company>SSSIT.org</company>
-        <phone>09990449935</phone>
-    </contact2>
-</contact-info>
+<student rollno = "593">
+    <firstname>jasvir</firstname>
+    <lastname>singh</lastname>
+    <nickname>jazz</nickname>
+    <marks>90</marks>
+</student>

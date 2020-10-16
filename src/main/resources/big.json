@@ -1,0 +1,4419 @@
+[
+  {
+    "attribute_population": "3249136",
+    "attribute_gdp_total": "4100",
+    "attribute_datacode": "AL",
+    "attribute_population_growth": "1.34",
+    "attribute_car_code": "AL",
+    "attribute_indep_date": "28 11 1912",
+    "attribute_name": "Albania",
+    "attribute_infant_mortality": "49.2",
+    "attribute_government": "emerging democracy",
+    "attribute_id": "f0_136",
+    "attribute_inflation": "16",
+    "attribute_gdp_agri": "55",
+    "attribute_total_area": "28750",
+    "attribute_capital": "f0_1461",
+    "name": "Albania",
+    "city": [
+      {
+        "attribute_country": "f0_136",
+        "attribute_latitude": "46.2",
+        "attribute_longitude": "10.7",
+        "attribute_id": "f0_1461",
+        "name": "Tirane",
+        "population": {
+          "attribute_year": "87",
+          "value": "192000"
+        }
+      },
+      {
+        "attribute_country": "f0_136",
+        "attribute_latitude": "42.2",
+        "attribute_longitude": "19.2",
+        "attribute_id": "f0_36498",
+        "name": "Shkoder",
+        "population": {
+          "attribute_year": "87",
+          "value": "62000"
+        },
+        "located_at": {
+          "attribute_water": "f0_39058",
+          "attribute_type": "lake"
+        }
+      },
+      {
+        "attribute_country": "f0_136",
+        "attribute_latitude": "41.2",
+        "attribute_longitude": "19.3",
+        "attribute_id": "f0_36504",
+        "name": "Durres",
+        "population": {
+          "attribute_year": "87",
+          "value": "60000"
+        },
+        "located_at": {
+          "attribute_water": "f0_38042",
+          "attribute_type": "sea"
+        }
+      },
+      {
+        "attribute_country": "f0_136",
+        "attribute_latitude": "40.3",
+        "attribute_longitude": "19.3",
+        "attribute_id": "f0_36509",
+        "name": "Vlore",
+        "population": {
+          "attribute_year": "87",
+          "value": "56000"
+        },
+        "located_at": {
+          "attribute_water": "f0_38042",
+          "attribute_type": "sea"
+        }
+      },
+      {
+        "attribute_country": "f0_136",
+        "attribute_latitude": "41.1",
+        "attribute_longitude": "20.1",
+        "attribute_id": "f0_36514",
+        "name": "Elbasan",
+        "population": {
+          "attribute_year": "87",
+          "value": "53000"
+        }
+      },
+      {
+        "attribute_country": "f0_136",
+        "attribute_latitude": "40.4",
+        "attribute_longitude": "20.5",
+        "attribute_id": "f0_36518",
+        "name": "Korce",
+        "population": {
+          "attribute_year": "87",
+          "value": "52000"
+        }
+      }
+    ],
+    "ethnicgroups": [
+      {
+        "attribute_percentage": "3",
+        "value": "Greeks"
+      },
+      {
+        "attribute_percentage": "95",
+        "value": "Albanian"
+      }
+    ],
+    "religions": [
+      {
+        "attribute_percentage": "70",
+        "value": "Muslim"
+      },
+      {
+        "attribute_percentage": "10",
+        "value": "Roman Catholic"
+      },
+      {
+        "attribute_percentage": "20",
+        "value": "Albanian Orthodox"
+      }
+    ],
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": [
+      {
+        "attribute_country": "f0_232",
+        "attribute_length": "282"
+      },
+      {
+        "attribute_country": "f0_300",
+        "attribute_length": "151"
+      },
+      {
+        "attribute_country": "f0_370",
+        "attribute_length": "287"
+      }
+    ]
+  },
+  {
+    "attribute_population": "72766",
+    "attribute_gdp_total": "1000",
+    "attribute_datacode": "AN",
+    "attribute_population_growth": "2.96",
+    "attribute_car_code": "AND",
+    "attribute_name": "Andorra",
+    "attribute_infant_mortality": "2.2",
+    "attribute_government": "parliamentary democracy that retains as its heads of state a coprincipality",
+    "attribute_id": "f0_144",
+    "attribute_total_area": "450",
+    "attribute_capital": "f0_1464",
+    "name": "Andorra",
+    "city": {
+      "attribute_country": "f0_144",
+      "attribute_latitude": "42.3",
+      "attribute_longitude": "1.3",
+      "attribute_id": "f0_1464",
+      "name": "Andorra la Vella",
+      "population": {
+        "attribute_year": "87",
+        "value": "15600"
+      }
+    },
+    "ethnicgroups": [
+      {
+        "attribute_percentage": "6",
+        "value": "French"
+      },
+      {
+        "attribute_percentage": "61",
+        "value": "Spanish"
+      },
+      {
+        "attribute_percentage": "30",
+        "value": "Andorran"
+      }
+    ],
+    "religions": {
+      "attribute_percentage": "100",
+      "value": "Roman Catholic"
+    },
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": [
+      {
+        "attribute_country": "f0_213",
+        "attribute_length": "60"
+      },
+      {
+        "attribute_country": "f0_385",
+        "attribute_length": "65"
+      }
+    ]
+  },
+  {
+    "attribute_gdp_total": "152000",
+    "attribute_population": "8023244",
+    "attribute_population_growth": "0.41",
+    "attribute_datacode": "AU",
+    "attribute_car_code": "A",
+    "attribute_indep_date": "12 11 1918",
+    "attribute_gdp_ind": "34",
+    "attribute_name": "Austria",
+    "attribute_infant_mortality": "6.2",
+    "attribute_government": "federal republic",
+    "attribute_id": "f0_149",
+    "attribute_inflation": "2.3",
+    "attribute_gdp_serv": "64",
+    "attribute_total_area": "83850",
+    "attribute_gdp_agri": "2",
+    "attribute_capital": "f0_1467",
+    "name": "Austria",
+    "province": [
+      {
+        "attribute_population": "273000",
+        "attribute_country": "f0_149",
+        "attribute_area": "3965",
+        "attribute_name": "Burgenland",
+        "attribute_id": "f0_17440",
+        "attribute_capital": "f0_2291",
+        "city": {
+          "attribute_country": "f0_149",
+          "attribute_latitude": "48",
+          "attribute_longitude": "16",
+          "attribute_province": "f0_17440",
+          "attribute_id": "f0_2291",
+          "name": "Eisenstadt",
+          "population": {
+            "attribute_year": "87",
+            "value": "10102"
+          }
+        }
+      },
+      {
+        "attribute_population": "559000",
+        "attribute_country": "f0_149",
+        "attribute_area": "9533",
+        "attribute_name": "Carinthia",
+        "attribute_id": "f0_17443",
+        "attribute_capital": "f0_2296",
+        "city": {
+          "attribute_country": "f0_149",
+          "attribute_latitude": "46.38",
+          "attribute_longitude": "14.21",
+          "attribute_province": "f0_17443",
+          "attribute_id": "f0_2296",
+          "name": "Klagenfurt",
+          "population": {
+            "attribute_year": "87",
+            "value": "87321"
+          }
+        }
+      },
+      {
+        "attribute_population": "341000",
+        "attribute_country": "f0_149",
+        "attribute_area": "2601",
+        "attribute_name": "Vorarlberg",
+        "attribute_id": "f0_17445",
+        "attribute_capital": "f0_2301",
+        "city": {
+          "attribute_country": "f0_149",
+          "attribute_latitude": "47.3",
+          "attribute_longitude": "9.45",
+          "attribute_province": "f0_17445",
+          "attribute_id": "f0_2301",
+          "name": "Bregenz"
+        }
+      },
+      {
+        "attribute_population": "1583000",
+        "attribute_country": "f0_149",
+        "attribute_area": "415",
+        "attribute_name": "Vienna",
+        "attribute_id": "f0_17447",
+        "attribute_capital": "f0_1467",
+        "city": {
+          "attribute_country": "f0_149",
+          "attribute_latitude": "48.25",
+          "attribute_longitude": "16.3667",
+          "attribute_province": "f0_17447",
+          "attribute_id": "f0_1467",
+          "name": "Vienna",
+          "population": {
+            "attribute_year": "94",
+            "value": "1583000"
+          }
+        }
+      },
+      {
+        "attribute_population": "1373000",
+        "attribute_country": "f0_149",
+        "attribute_area": "11979",
+        "attribute_name": "Upper Austria",
+        "attribute_id": "f0_17448",
+        "attribute_capital": "f0_2267",
+        "city": {
+          "attribute_country": "f0_149",
+          "attribute_latitude": "48.18",
+          "attribute_longitude": "14.18",
+          "attribute_province": "f0_17448",
+          "attribute_id": "f0_2267",
+          "name": "Linz",
+          "population": {
+            "attribute_year": "94",
+            "value": "203000"
+          }
+        }
+      },
+      {
+        "attribute_population": "649000",
+        "attribute_country": "f0_149",
+        "attribute_area": "12647",
+        "attribute_name": "Tyrol",
+        "attribute_id": "f0_17450",
+        "attribute_capital": "f0_2273",
+        "city": {
+          "attribute_country": "f0_149",
+          "attribute_latitude": "47.17",
+          "attribute_longitude": "11.22",
+          "attribute_province": "f0_17450",
+          "attribute_id": "f0_2273",
+          "name": "Innsbruck",
+          "population": {
+            "attribute_year": "94",
+            "value": "118000"
+          }
+        }
+      },
+      {
+        "attribute_population": "1203000",
+        "attribute_country": "f0_149",
+        "attribute_area": "16386",
+        "attribute_name": "Styria",
+        "attribute_id": "f0_17452",
+        "attribute_capital": "f0_2279",
+        "city": {
+          "attribute_country": "f0_149",
+          "attribute_latitude": "47.4",
+          "attribute_longitude": "15.26",
+          "attribute_province": "f0_17452",
+          "attribute_id": "f0_2279",
+          "name": "Graz",
+          "population": {
+            "attribute_year": "94",
+            "value": "238000"
+          }
+        }
+      },
+      {
+        "attribute_population": "501000",
+        "attribute_country": "f0_149",
+        "attribute_area": "7154",
+        "attribute_name": "Salzburg",
+        "attribute_id": "f0_17454",
+        "attribute_capital": "f0_2285",
+        "city": {
+          "attribute_country": "f0_149",
+          "attribute_latitude": "47.49",
+          "attribute_longitude": "13.2",
+          "attribute_province": "f0_17454",
+          "attribute_id": "f0_2285",
+          "name": "Salzburg",
+          "population": {
+            "attribute_year": "94",
+            "value": "144000"
+          }
+        }
+      },
+      {
+        "attribute_population": "1507000",
+        "attribute_country": "f0_149",
+        "attribute_area": "19170",
+        "attribute_name": "Lower Austria",
+        "attribute_id": "f0_17455",
+        "attribute_capital": "f0_2306",
+        "city": {
+          "attribute_country": "f0_149",
+          "attribute_latitude": "48.13",
+          "attribute_longitude": "15.38",
+          "attribute_province": "f0_17455",
+          "attribute_id": "f0_2306",
+          "name": "St. Polten",
+          "population": {
+            "attribute_year": "87",
+            "value": "51102"
+          }
+        }
+      }
+    ],
+    "ethnicgroups": [
+      {
+        "attribute_percentage": "99.4",
+        "value": "German"
+      },
+      {
+        "attribute_percentage": "0.2",
+        "value": "Slovene"
+      },
+      {
+        "attribute_percentage": "0.3",
+        "value": "Croatian"
+      }
+    ],
+    "religions": [
+      {
+        "attribute_percentage": "85",
+        "value": "Roman Catholic"
+      },
+      {
+        "attribute_percentage": "6",
+        "value": "Protestant"
+      }
+    ],
+    "languages": {
+      "attribute_percentage": "100",
+      "value": "German"
+    },
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": [
+      {
+        "attribute_country": "f0_184",
+        "attribute_length": "362"
+      },
+      {
+        "attribute_country": "f0_220",
+        "attribute_length": "784"
+      },
+      {
+        "attribute_country": "f0_251",
+        "attribute_length": "366"
+      },
+      {
+        "attribute_country": "f0_268",
+        "attribute_length": "430"
+      },
+      {
+        "attribute_country": "f0_285",
+        "attribute_length": "37"
+      },
+      {
+        "attribute_country": "f0_375",
+        "attribute_length": "91"
+      },
+      {
+        "attribute_country": "f0_380",
+        "attribute_length": "324"
+      },
+      {
+        "attribute_country": "f0_404",
+        "attribute_length": "164"
+      }
+    ]
+  },
+  {
+    "attribute_gdp_total": "49200",
+    "attribute_population": "10415973",
+    "attribute_population_growth": "0.2",
+    "attribute_datacode": "BO",
+    "attribute_car_code": "BY",
+    "attribute_indep_date": "25 08 1991",
+    "attribute_gdp_ind": "49",
+    "attribute_name": "Belarus",
+    "attribute_infant_mortality": "13.4",
+    "attribute_government": "republic",
+    "attribute_id": "f0_157",
+    "attribute_inflation": "244",
+    "attribute_gdp_serv": "30",
+    "attribute_total_area": "207600",
+    "attribute_gdp_agri": "21",
+    "attribute_capital": "f0_1474",
+    "name": "Belarus",
+    "city": {
+      "attribute_country": "f0_157",
+      "attribute_latitude": "53.9",
+      "attribute_longitude": "27.55",
+      "attribute_id": "f0_1474",
+      "name": "Minsk",
+      "population": {
+        "attribute_year": "87",
+        "value": "1540000"
+      }
+    },
+    "ethnicgroups": [
+      {
+        "attribute_percentage": "4.1",
+        "value": "Polish"
+      },
+      {
+        "attribute_percentage": "2.9",
+        "value": "Ukrainian"
+      },
+      {
+        "attribute_percentage": "13.2",
+        "value": "Russian"
+      },
+      {
+        "attribute_percentage": "77.9",
+        "value": "Byelorussian"
+      }
+    ],
+    "religions": {
+      "attribute_percentage": "60",
+      "value": "Eastern Orthodox"
+    },
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": [
+      {
+        "attribute_country": "f0_280",
+        "attribute_length": "141"
+      },
+      {
+        "attribute_country": "f0_290",
+        "attribute_length": "502"
+      },
+      {
+        "attribute_country": "f0_337",
+        "attribute_length": "605"
+      },
+      {
+        "attribute_country": "f0_411",
+        "attribute_length": "891"
+      },
+      {
+        "attribute_country": "f0_358",
+        "attribute_length": "959"
+      }
+    ]
+  },
+  {
+    "attribute_gdp_total": "197000",
+    "attribute_population": "10170241",
+    "attribute_population_growth": "0.33",
+    "attribute_datacode": "BE",
+    "attribute_car_code": "B",
+    "attribute_indep_date": "04 10 1830",
+    "attribute_gdp_ind": "28",
+    "attribute_name": "Belgium",
+    "attribute_infant_mortality": "6.4",
+    "attribute_government": "constitutional monarchy",
+    "attribute_id": "f0_162",
+    "attribute_inflation": "1.6",
+    "attribute_gdp_serv": "70",
+    "attribute_total_area": "30510",
+    "attribute_gdp_agri": "2",
+    "attribute_capital": "f0_1477",
+    "name": "Belgium",
+    "province": [
+      {
+        "attribute_population": "1610695",
+        "attribute_country": "f0_162",
+        "attribute_area": "2867",
+        "attribute_name": "Antwerp",
+        "attribute_id": "f0_17457",
+        "attribute_capital": "f0_2311",
+        "city": {
+          "attribute_country": "f0_162",
+          "attribute_latitude": "51.1",
+          "attribute_longitude": "4.23",
+          "attribute_province": "f0_17457",
+          "attribute_id": "f0_2311",
+          "name": "Antwerp",
+          "population": {
+            "attribute_year": "95",
+            "value": "459072"
+          }
+        }
+      },
+      {
+        "attribute_population": "2253794",
+        "attribute_country": "f0_162",
+        "attribute_area": "3358",
+        "attribute_name": "Brabant",
+        "attribute_id": "f0_17458",
+        "attribute_capital": "f0_1477",
+        "city": {
+          "attribute_country": "f0_162",
+          "attribute_latitude": "50.8",
+          "attribute_longitude": "4.35",
+          "attribute_province": "f0_17458",
+          "attribute_id": "f0_1477",
+          "name": [
+            "Brussels",
+            "Agglomeration"
+          ],
+          "population": {
+            "attribute_year": "95",
+            "value": "951580"
+          }
+        }
+      },
+      {
+        "attribute_population": "1340056",
+        "attribute_country": "f0_162",
+        "attribute_area": "2982",
+        "attribute_name": "East Flanders",
+        "attribute_id": "f0_17460",
+        "attribute_capital": "f0_2317",
+        "city": {
+          "attribute_country": "f0_162",
+          "attribute_latitude": "51.4",
+          "attribute_longitude": "3.5",
+          "attribute_province": "f0_17460",
+          "attribute_id": "f0_2317",
+          "name": "Ghent",
+          "population": {
+            "attribute_year": "95",
+            "value": "227483"
+          }
+        }
+      },
+      {
+        "attribute_population": "1283252",
+        "attribute_country": "f0_162",
+        "attribute_area": "3787",
+        "attribute_name": "Hainaut",
+        "attribute_id": "f0_17462",
+        "attribute_capital": "f0_2345",
+        "city": [
+          {
+            "attribute_country": "f0_162",
+            "attribute_province": "f0_17462",
+            "attribute_id": "f0_2335",
+            "name": "Charleroi",
+            "population": {
+              "attribute_year": "95",
+              "value": "206491"
+            }
+          },
+          {
+            "attribute_country": "f0_162",
+            "attribute_latitude": "50.3",
+            "attribute_longitude": "3.6",
+            "attribute_province": "f0_17462",
+            "attribute_id": "f0_2345",
+            "name": "Mons",
+            "population": {
+              "attribute_year": "87",
+              "value": "90720"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "1006081",
+        "attribute_country": "f0_162",
+        "attribute_area": "3862",
+        "attribute_name": "Liege",
+        "attribute_id": "f0_17464",
+        "attribute_capital": "f0_2323",
+        "city": {
+          "attribute_country": "f0_162",
+          "attribute_latitude": "50.5",
+          "attribute_longitude": "5.5",
+          "attribute_province": "f0_17464",
+          "attribute_id": "f0_2323",
+          "name": "Liege",
+          "population": {
+            "attribute_year": "95",
+            "value": "192393"
+          }
+        }
+      },
+      {
+        "attribute_population": "755593",
+        "attribute_country": "f0_162",
+        "attribute_area": "2422",
+        "attribute_name": "Limburg",
+        "attribute_id": "f0_17465",
+        "attribute_capital": "f0_2350",
+        "city": {
+          "attribute_country": "f0_162",
+          "attribute_latitude": "50.7",
+          "attribute_longitude": "5.2",
+          "attribute_province": "f0_17465",
+          "attribute_id": "f0_2350",
+          "name": "Hasselt",
+          "population": {
+            "attribute_year": "87",
+            "value": "65348"
+          }
+        }
+      },
+      {
+        "attribute_population": "234664",
+        "attribute_country": "f0_162",
+        "attribute_area": "4441",
+        "attribute_name": "Luxembourg",
+        "attribute_id": "f0_17467",
+        "attribute_capital": "f0_2355",
+        "city": {
+          "attribute_country": "f0_162",
+          "attribute_latitude": "49.4",
+          "attribute_longitude": "5.5",
+          "attribute_province": "f0_17467",
+          "attribute_id": "f0_2355",
+          "name": "Arlon",
+          "population": {
+            "attribute_year": "87",
+            "value": "23150"
+          }
+        }
+      },
+      {
+        "attribute_population": "426305",
+        "attribute_country": "f0_162",
+        "attribute_area": "3665",
+        "attribute_name": "Namur",
+        "attribute_id": "f0_17468",
+        "attribute_capital": "f0_2329",
+        "city": {
+          "attribute_country": "f0_162",
+          "attribute_latitude": "50.3",
+          "attribute_longitude": "4.5",
+          "attribute_province": "f0_17468",
+          "attribute_id": "f0_2329",
+          "name": "Namur",
+          "population": {
+            "attribute_year": "95",
+            "value": "105014"
+          }
+        }
+      },
+      {
+        "attribute_population": "1111557",
+        "attribute_country": "f0_162",
+        "attribute_area": "3134",
+        "attribute_name": "West Flanders",
+        "attribute_id": "f0_17469",
+        "attribute_capital": "f0_2360",
+        "city": [
+          {
+            "attribute_country": "f0_162",
+            "attribute_province": "f0_17469",
+            "attribute_id": "f0_2340",
+            "name": "Bruges",
+            "population": {
+              "attribute_year": "95",
+              "value": "116273"
+            }
+          },
+          {
+            "attribute_country": "f0_162",
+            "attribute_province": "f0_17469",
+            "attribute_id": "f0_2360",
+            "name": "Brugge"
+          },
+          {
+            "attribute_country": "f0_162",
+            "attribute_latitude": "51.1",
+            "attribute_longitude": "2.08",
+            "attribute_province": "f0_17469",
+            "attribute_id": "f0_36771",
+            "name": "Bruegge",
+            "population": {
+              "attribute_year": "87",
+              "value": "117799"
+            }
+          }
+        ]
+      }
+    ],
+    "ethnicgroups": [
+      {
+        "attribute_percentage": "55",
+        "value": "Fleming"
+      },
+      {
+        "attribute_percentage": "33",
+        "value": "Walloon"
+      }
+    ],
+    "religions": [
+      {
+        "attribute_percentage": "75",
+        "value": "Roman Catholic"
+      },
+      {
+        "attribute_percentage": "25",
+        "value": "Protestant"
+      }
+    ],
+    "languages": [
+      {
+        "attribute_percentage": "32",
+        "value": "French"
+      },
+      {
+        "attribute_percentage": "1",
+        "value": "German"
+      },
+      {
+        "attribute_percentage": "56",
+        "value": "Dutch"
+      }
+    ],
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": [
+      {
+        "attribute_country": "f0_213",
+        "attribute_length": "620"
+      },
+      {
+        "attribute_country": "f0_220",
+        "attribute_length": "167"
+      },
+      {
+        "attribute_country": "f0_295",
+        "attribute_length": "148"
+      },
+      {
+        "attribute_country": "f0_325",
+        "attribute_length": "450"
+      }
+    ]
+  },
+  {
+    "attribute_population": "2656240",
+    "attribute_gdp_total": "1000",
+    "attribute_datacode": "BK",
+    "attribute_population_growth": "-2.84",
+    "attribute_car_code": "BIH",
+    "attribute_indep_date": "01 04 1992",
+    "attribute_name": "Bosnia and Herzegovina",
+    "attribute_infant_mortality": "43.2",
+    "attribute_government": "emerging democracy",
+    "attribute_id": "f0_169",
+    "attribute_total_area": "51233",
+    "attribute_capital": "f0_1484",
+    "name": "Bosnia and Herzegovina",
+    "city": {
+      "attribute_country": "f0_169",
+      "attribute_id": "f0_1484",
+      "name": "Sarajevo"
+    },
+    "ethnicgroups": [
+      {
+        "attribute_percentage": "38",
+        "value": "Muslim"
+      },
+      {
+        "attribute_percentage": "40",
+        "value": "Serb"
+      },
+      {
+        "attribute_percentage": "22",
+        "value": "Croat"
+      }
+    ],
+    "religions": [
+      {
+        "attribute_percentage": "40",
+        "value": "Muslim"
+      },
+      {
+        "attribute_percentage": "4",
+        "value": "Protestant"
+      },
+      {
+        "attribute_percentage": "31",
+        "value": "Orthodox"
+      },
+      {
+        "attribute_percentage": "15",
+        "value": "Catholic"
+      }
+    ],
+    "languages": {
+      "attribute_percentage": "99",
+      "value": "Serbo-Croatian"
+    },
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": [
+      {
+        "attribute_country": "f0_179",
+        "attribute_length": "932"
+      },
+      {
+        "attribute_country": "f0_370",
+        "attribute_length": "527"
+      }
+    ]
+  },
+  {
+    "attribute_gdp_total": "43200",
+    "attribute_population": "8612757",
+    "attribute_population_growth": "0.46",
+    "attribute_datacode": "BU",
+    "attribute_car_code": "BG",
+    "attribute_indep_date": "22 09 1908",
+    "attribute_gdp_ind": "36",
+    "attribute_name": "Bulgaria",
+    "attribute_infant_mortality": "15.7",
+    "attribute_government": "emerging democracy",
+    "attribute_id": "f0_174",
+    "attribute_inflation": "35",
+    "attribute_gdp_serv": "52",
+    "attribute_total_area": "110910",
+    "attribute_gdp_agri": "12",
+    "attribute_capital": "f0_1487",
+    "name": "Bulgaria",
+    "city": {
+      "attribute_country": "f0_174",
+      "attribute_latitude": "42.7",
+      "attribute_longitude": "23.3333",
+      "attribute_id": "f0_1487",
+      "name": "Sofia",
+      "population": {
+        "attribute_year": "87",
+        "value": "1300000"
+      }
+    },
+    "ethnicgroups": [
+      {
+        "attribute_percentage": "0.2",
+        "value": "Russian"
+      },
+      {
+        "attribute_percentage": "2.6",
+        "value": "Gypsy"
+      },
+      {
+        "attribute_percentage": "8.5",
+        "value": "Turk"
+      },
+      {
+        "attribute_percentage": "85.3",
+        "value": "Bulgarian"
+      },
+      {
+        "attribute_percentage": "0.3",
+        "value": "Armenian"
+      },
+      {
+        "attribute_percentage": "2.5",
+        "value": "Macedonian"
+      }
+    ],
+    "religions": [
+      {
+        "attribute_percentage": "13",
+        "value": "Muslim"
+      },
+      {
+        "attribute_percentage": "0.8",
+        "value": "Jewish"
+      },
+      {
+        "attribute_percentage": "0.5",
+        "value": "Roman Catholic"
+      },
+      {
+        "attribute_percentage": "85",
+        "value": "Bulgarian Orthodox"
+      },
+      {
+        "attribute_percentage": "0.2",
+        "value": "Uniate Catholic"
+      }
+    ],
+    "languages": {
+      "attribute_percentage": "100",
+      "value": "Bulgarian"
+    },
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": [
+      {
+        "attribute_country": "f0_232",
+        "attribute_length": "494"
+      },
+      {
+        "attribute_country": "f0_300",
+        "attribute_length": "148"
+      },
+      {
+        "attribute_country": "f0_351",
+        "attribute_length": "608"
+      },
+      {
+        "attribute_country": "f0_370",
+        "attribute_length": "318"
+      },
+      {
+        "attribute_country": "f0_670",
+        "attribute_length": "240"
+      }
+    ]
+  },
+  {
+    "attribute_gdp_total": "20100",
+    "attribute_population": "5004112",
+    "attribute_population_growth": "0.58",
+    "attribute_datacode": "HR",
+    "attribute_car_code": "HR",
+    "attribute_indep_date": "25 06 1991",
+    "attribute_gdp_ind": "30.6",
+    "attribute_name": "Croatia",
+    "attribute_infant_mortality": "10.2",
+    "attribute_government": "parliamentary democracy",
+    "attribute_id": "f0_179",
+    "attribute_inflation": "3.7",
+    "attribute_gdp_serv": "56.7",
+    "attribute_total_area": "56538",
+    "attribute_gdp_agri": "12.7",
+    "attribute_capital": "f0_1490",
+    "name": "Croatia",
+    "city": {
+      "attribute_country": "f0_179",
+      "attribute_id": "f0_1490",
+      "name": "Zagreb"
+    },
+    "ethnicgroups": [
+      {
+        "attribute_percentage": "0.9",
+        "value": "Muslim"
+      },
+      {
+        "attribute_percentage": "12",
+        "value": "Serb"
+      },
+      {
+        "attribute_percentage": "78",
+        "value": "Croat"
+      },
+      {
+        "attribute_percentage": "0.5",
+        "value": "Hungarian"
+      },
+      {
+        "attribute_percentage": "0.5",
+        "value": "Slovenian"
+      }
+    ],
+    "religions": [
+      {
+        "attribute_percentage": "0.4",
+        "value": "Protestant"
+      },
+      {
+        "attribute_percentage": "11.1",
+        "value": "Orthodox"
+      },
+      {
+        "attribute_percentage": "76.5",
+        "value": "Catholic"
+      },
+      {
+        "attribute_percentage": "1.2",
+        "value": "Slavic Muslim"
+      }
+    ],
+    "languages": {
+      "attribute_percentage": "96",
+      "value": "Serbo-Croatian"
+    },
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": [
+      {
+        "attribute_country": "f0_169",
+        "attribute_length": "932"
+      },
+      {
+        "attribute_country": "f0_251",
+        "attribute_length": "329"
+      },
+      {
+        "attribute_country": "f0_370",
+        "attribute_length": "266"
+      },
+      {
+        "attribute_country": "f0_380",
+        "attribute_length": "546"
+      }
+    ]
+  },
+  {
+    "attribute_gdp_total": "106200",
+    "attribute_population": "10321120",
+    "attribute_population_growth": "-0.03",
+    "attribute_datacode": "EZ",
+    "attribute_car_code": "CZ",
+    "attribute_indep_date": "01 01 1993",
+    "attribute_gdp_ind": "40.7",
+    "attribute_name": "Czech Republic",
+    "attribute_infant_mortality": "8.4",
+    "attribute_government": "parliamentary democracy",
+    "attribute_id": "f0_184",
+    "attribute_inflation": "9.1",
+    "attribute_gdp_serv": "53.5",
+    "attribute_total_area": "78703",
+    "attribute_gdp_agri": "5.8",
+    "attribute_capital": "f0_1493",
+    "name": [
+      "Czech Rep.",
+      "Czech Republic"
+    ],
+    "province": [
+      {
+        "attribute_population": "702000",
+        "attribute_country": "f0_184",
+        "attribute_area": "11345",
+        "attribute_name": "Jihocesky",
+        "attribute_id": "f0_17471",
+        "attribute_capital": "f0_2365",
+        "city": {
+          "attribute_country": "f0_184",
+          "attribute_province": "f0_17471",
+          "attribute_id": "f0_2365",
+          "name": "Ceske Budejovice",
+          "population": {
+            "attribute_year": "90",
+            "value": "174000"
+          }
+        }
+      },
+      {
+        "attribute_population": "2059000",
+        "attribute_country": "f0_184",
+        "attribute_area": "15028",
+        "attribute_name": "Jihomoravsky",
+        "attribute_id": "f0_17473",
+        "attribute_capital": "f0_2371",
+        "city": [
+          {
+            "attribute_country": "f0_184",
+            "attribute_province": "f0_17473",
+            "attribute_id": "f0_2371",
+            "name": "Brno",
+            "population": {
+              "attribute_year": "90",
+              "value": "393000"
+            }
+          },
+          {
+            "attribute_country": "f0_184",
+            "attribute_province": "f0_17473",
+            "attribute_id": "f0_2394",
+            "name": "Zlin",
+            "population": {
+              "attribute_year": "90",
+              "value": "198000"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "1190000",
+        "attribute_country": "f0_184",
+        "attribute_area": "7819",
+        "attribute_name": "Severocesky",
+        "attribute_id": "f0_17475",
+        "attribute_capital": "f0_2415",
+        "city": [
+          {
+            "attribute_country": "f0_184",
+            "attribute_province": "f0_17475",
+            "attribute_id": "f0_2410",
+            "name": "Liberec",
+            "population": {
+              "attribute_year": "90",
+              "value": "160000"
+            }
+          },
+          {
+            "attribute_country": "f0_184",
+            "attribute_province": "f0_17475",
+            "attribute_id": "f0_2415",
+            "name": "Usti nad Labem"
+          }
+        ]
+      },
+      {
+        "attribute_population": "1976000",
+        "attribute_country": "f0_184",
+        "attribute_area": "11067",
+        "attribute_name": "Severomoravsky",
+        "attribute_id": "f0_17477",
+        "attribute_capital": "f0_2377",
+        "city": [
+          {
+            "attribute_country": "f0_184",
+            "attribute_province": "f0_17477",
+            "attribute_id": "f0_2377",
+            "name": "Ostrava",
+            "population": {
+              "attribute_year": "90",
+              "value": "332000"
+            }
+          },
+          {
+            "attribute_country": "f0_184",
+            "attribute_province": "f0_17477",
+            "attribute_id": "f0_2389",
+            "name": "Olomouc",
+            "population": {
+              "attribute_year": "90",
+              "value": "225000"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "2329000",
+        "attribute_country": "f0_184",
+        "attribute_area": "11490",
+        "attribute_name": "Praha",
+        "attribute_id": "f0_17479",
+        "attribute_capital": "f0_1493",
+        "city": {
+          "attribute_country": "f0_184",
+          "attribute_latitude": "50.0833",
+          "attribute_longitude": "14.4167",
+          "attribute_province": "f0_17479",
+          "attribute_id": "f0_1493",
+          "name": "Prague",
+          "population": {
+            "attribute_year": "90",
+            "value": "1215000"
+          }
+        }
+      },
+      {
+        "attribute_population": "1240000",
+        "attribute_country": "f0_184",
+        "attribute_area": "11240",
+        "attribute_name": "Vychodocesky",
+        "attribute_id": "f0_17481",
+        "attribute_capital": "f0_2399",
+        "city": [
+          {
+            "attribute_country": "f0_184",
+            "attribute_province": "f0_17481",
+            "attribute_id": "f0_2399",
+            "name": "Hradec Kralove",
+            "population": {
+              "attribute_year": "90",
+              "value": "164000"
+            }
+          },
+          {
+            "attribute_country": "f0_184",
+            "attribute_province": "f0_17481",
+            "attribute_id": "f0_2405",
+            "name": "Pardubice",
+            "population": {
+              "attribute_year": "90",
+              "value": "163000"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "869000",
+        "attribute_country": "f0_184",
+        "attribute_area": "10875",
+        "attribute_name": "Zapadocesky",
+        "attribute_id": "f0_17483",
+        "attribute_capital": "f0_2383",
+        "city": {
+          "attribute_country": "f0_184",
+          "attribute_province": "f0_17483",
+          "attribute_id": "f0_2383",
+          "name": "Plzen",
+          "population": {
+            "attribute_year": "90",
+            "value": "175000"
+          }
+        }
+      }
+    ],
+    "ethnicgroups": [
+      {
+        "attribute_percentage": "0.5",
+        "value": "German"
+      },
+      {
+        "attribute_percentage": "0.6",
+        "value": "Polish"
+      },
+      {
+        "attribute_percentage": "0.3",
+        "value": "Gypsy"
+      },
+      {
+        "attribute_percentage": "0.2",
+        "value": "Hungarian"
+      },
+      {
+        "attribute_percentage": "94.4",
+        "value": "Czech"
+      },
+      {
+        "attribute_percentage": "3",
+        "value": "Slovak"
+      }
+    ],
+    "religions": [
+      {
+        "attribute_percentage": "39.2",
+        "value": "Roman Catholic"
+      },
+      {
+        "attribute_percentage": "4.6",
+        "value": "Protestant"
+      },
+      {
+        "attribute_percentage": "3",
+        "value": "Orthodox"
+      }
+    ],
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": [
+      {
+        "attribute_country": "f0_149",
+        "attribute_length": "362"
+      },
+      {
+        "attribute_country": "f0_220",
+        "attribute_length": "646"
+      },
+      {
+        "attribute_country": "f0_337",
+        "attribute_length": "658"
+      },
+      {
+        "attribute_country": "f0_375",
+        "attribute_length": "214"
+      }
+    ]
+  },
+  {
+    "attribute_population": "5249632",
+    "attribute_gdp_total": "112800",
+    "attribute_datacode": "DA",
+    "attribute_population_growth": "0.38",
+    "attribute_car_code": "DK",
+    "attribute_gdp_ind": "23.5",
+    "attribute_name": "Denmark",
+    "attribute_infant_mortality": "4.8",
+    "attribute_government": "constitutional monarchy",
+    "attribute_id": "f0_193",
+    "attribute_inflation": "2.4",
+    "attribute_gdp_agri": "3",
+    "attribute_total_area": "43070",
+    "attribute_gdp_serv": "73.5",
+    "attribute_capital": "f0_1498",
+    "name": "Denmark",
+    "city": [
+      {
+        "attribute_country": "f0_193",
+        "attribute_latitude": "55.6833",
+        "attribute_longitude": "12.55",
+        "attribute_id": "f0_1498",
+        "name": "Copenhagen",
+        "population": {
+          "attribute_year": "87",
+          "value": "1358540"
+        },
+        "located_at": {
+          "attribute_water": "f0_38203",
+          "attribute_type": "sea"
+        }
+      },
+      {
+        "attribute_country": "f0_193",
+        "attribute_latitude": "56.1",
+        "attribute_longitude": "10.1",
+        "attribute_id": "f0_36445",
+        "name": "Aarhus",
+        "population": {
+          "attribute_year": "87",
+          "value": "194345"
+        },
+        "located_at": {
+          "attribute_water": "f0_38203",
+          "attribute_type": "sea"
+        }
+      },
+      {
+        "attribute_country": "f0_193",
+        "attribute_latitude": "55.3",
+        "attribute_longitude": "10.2",
+        "attribute_id": "f0_36450",
+        "name": "Odense",
+        "population": {
+          "attribute_year": "87",
+          "value": "136803"
+        }
+      },
+      {
+        "attribute_country": "f0_193",
+        "attribute_latitude": "57",
+        "attribute_longitude": "10",
+        "attribute_id": "f0_36454",
+        "name": "Aalborg",
+        "population": {
+          "attribute_year": "87",
+          "value": "113865"
+        }
+      },
+      {
+        "attribute_country": "f0_193",
+        "attribute_latitude": "55.3",
+        "attribute_longitude": "8.3",
+        "attribute_id": "f0_36458",
+        "name": "Esbjerg",
+        "population": {
+          "attribute_year": "87",
+          "value": "70975"
+        },
+        "located_at": {
+          "attribute_water": "f0_38020",
+          "attribute_type": "sea"
+        }
+      },
+      {
+        "attribute_country": "f0_193",
+        "attribute_latitude": "56.3",
+        "attribute_longitude": "10",
+        "attribute_id": "f0_36463",
+        "name": "Randers",
+        "population": {
+          "attribute_year": "87",
+          "value": "55780"
+        }
+      }
+    ],
+    "religions": [
+      {
+        "attribute_percentage": "91",
+        "value": "Evangelical Lutheran"
+      },
+      {
+        "attribute_percentage": "2",
+        "value": "Protestant Roman Catholic"
+      }
+    ],
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": {
+      "attribute_country": "f0_220",
+      "attribute_length": "68"
+    }
+  },
+  {
+    "attribute_gdp_total": "12300",
+    "attribute_population": "1459428",
+    "attribute_population_growth": "-1.13",
+    "attribute_datacode": "EN",
+    "attribute_car_code": "EW",
+    "attribute_indep_date": "06 09 1991",
+    "attribute_gdp_ind": "37",
+    "attribute_name": "Estonia",
+    "attribute_infant_mortality": "17.4",
+    "attribute_government": "republic",
+    "attribute_id": "f0_198",
+    "attribute_inflation": "29",
+    "attribute_gdp_serv": "53",
+    "attribute_total_area": "45100",
+    "attribute_gdp_agri": "10",
+    "attribute_capital": "f0_1501",
+    "name": "Estonia",
+    "city": {
+      "attribute_country": "f0_198",
+      "attribute_latitude": "59.3",
+      "attribute_longitude": "25",
+      "attribute_id": "f0_1501",
+      "name": "Tallinn",
+      "population": {
+        "attribute_year": "87",
+        "value": "478000"
+      },
+      "located_at": {
+        "attribute_water": "f0_38203",
+        "attribute_type": "sea"
+      }
+    },
+    "ethnicgroups": [
+      {
+        "attribute_percentage": "3.2",
+        "value": "Ukrainian"
+      },
+      {
+        "attribute_percentage": "30.3",
+        "value": "Russian"
+      },
+      {
+        "attribute_percentage": "1.8",
+        "value": "Byelorussian"
+      },
+      {
+        "attribute_percentage": "1.1",
+        "value": "Finn"
+      },
+      {
+        "attribute_percentage": "61.5",
+        "value": "Estonian"
+      }
+    ],
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": [
+      {
+        "attribute_country": "f0_280",
+        "attribute_length": "267"
+      },
+      {
+        "attribute_country": "f0_358",
+        "attribute_length": "290"
+      }
+    ]
+  },
+  {
+    "attribute_population": "43857",
+    "attribute_gdp_total": "733",
+    "attribute_datacode": "FO",
+    "attribute_population_growth": "-1.8",
+    "attribute_name": "Faroe Islands",
+    "attribute_infant_mortality": "7.2",
+    "attribute_government": "part of the Danish realm",
+    "attribute_id": "f0_203",
+    "attribute_inflation": "6.8",
+    "attribute_total_area": "1400",
+    "attribute_capital": "f0_1504",
+    "name": "Faroe Islands",
+    "city": {
+      "attribute_country": "f0_203",
+      "attribute_id": "f0_1504",
+      "name": "Torshavn"
+    },
+    "ethnicgroups": {
+      "attribute_percentage": "100",
+      "value": "Scandinavian"
+    },
+    "religions": {
+      "attribute_percentage": "100",
+      "value": "Evangelical Lutheran"
+    },
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    }
+  },
+  {
+    "attribute_gdp_total": "92400",
+    "attribute_population": "5105230",
+    "attribute_population_growth": "0.1",
+    "attribute_datacode": "FI",
+    "attribute_car_code": "SF",
+    "attribute_indep_date": "06 12 1917",
+    "attribute_gdp_ind": "28",
+    "attribute_name": "Finland",
+    "attribute_infant_mortality": "4.9",
+    "attribute_government": "republic",
+    "attribute_id": "f0_208",
+    "attribute_inflation": "2",
+    "attribute_gdp_serv": "67.4",
+    "attribute_total_area": "337030",
+    "attribute_gdp_agri": "4.6",
+    "attribute_capital": "f0_1507",
+    "name": "Finland",
+    "province": [
+      {
+        "attribute_population": "23000",
+        "attribute_country": "f0_208",
+        "attribute_name": "Aland",
+        "attribute_id": "f0_33615",
+        "attribute_capital": "f0_35399",
+        "city": {
+          "attribute_country": "f0_208",
+          "attribute_latitude": "60.1",
+          "attribute_longitude": "19.5",
+          "attribute_province": "f0_33615",
+          "attribute_id": "f0_35399",
+          "name": "Mariehamn",
+          "population": {
+            "attribute_year": "87",
+            "value": "9500"
+          }
+        }
+      },
+      {
+        "attribute_population": "662000",
+        "attribute_country": "f0_208",
+        "attribute_name": "Haeme",
+        "attribute_id": "f0_33620",
+        "attribute_capital": "f0_35402",
+        "city": [
+          {
+            "attribute_country": "f0_208",
+            "attribute_latitude": "61",
+            "attribute_longitude": "24.3",
+            "attribute_province": "f0_33620",
+            "attribute_id": "f0_35402",
+            "name": "Haemeenlinna",
+            "population": {
+              "attribute_year": "87",
+              "value": "42000"
+            }
+          },
+          {
+            "attribute_country": "f0_208",
+            "attribute_latitude": "61.3",
+            "attribute_longitude": "23.5",
+            "attribute_province": "f0_33620",
+            "attribute_id": "f0_36467",
+            "name": "Tampere",
+            "population": {
+              "attribute_year": "87",
+              "value": "170097"
+            },
+            "located_at": {
+              "attribute_water": "f0_39123",
+              "attribute_type": "lake"
+            }
+          },
+          {
+            "attribute_country": "f0_208",
+            "attribute_latitude": "60.5",
+            "attribute_longitude": "25.2",
+            "attribute_province": "f0_33620",
+            "attribute_id": "f0_36478",
+            "name": "Lahti",
+            "population": {
+              "attribute_year": "87",
+              "value": "94234"
+            },
+            "located_at": {
+              "attribute_water": "f0_39278",
+              "attribute_type": "lake"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "252000",
+        "attribute_country": "f0_208",
+        "attribute_name": "Kuopio",
+        "attribute_id": "f0_33625",
+        "attribute_capital": "f0_35405",
+        "city": {
+          "attribute_country": "f0_208",
+          "attribute_latitude": "62.5",
+          "attribute_longitude": "27.4",
+          "attribute_province": "f0_33625",
+          "attribute_id": "f0_35405",
+          "name": "Kuopio",
+          "population": {
+            "attribute_year": "87",
+            "value": "78571"
+          },
+          "located_at": {
+            "attribute_water": "f0_39112",
+            "attribute_type": "lake"
+          }
+        }
+      },
+      {
+        "attribute_population": "345000",
+        "attribute_country": "f0_208",
+        "attribute_name": "Kymi",
+        "attribute_id": "f0_33629",
+        "attribute_capital": "f0_35410",
+        "city": [
+          {
+            "attribute_country": "f0_208",
+            "attribute_latitude": "60.3",
+            "attribute_longitude": "26.5",
+            "attribute_province": "f0_33629",
+            "attribute_id": "f0_35410",
+            "name": "Kotka",
+            "population": {
+              "attribute_year": "87",
+              "value": "58345"
+            },
+            "located_at": {
+              "attribute_water": "f0_38203",
+              "attribute_type": "sea"
+            }
+          },
+          {
+            "attribute_country": "f0_208",
+            "attribute_latitude": "60.5",
+            "attribute_longitude": "26.5",
+            "attribute_province": "f0_33629",
+            "attribute_id": "f0_36489",
+            "name": "Lappeenrenta",
+            "population": {
+              "attribute_year": "87",
+              "value": "53922"
+            },
+            "located_at": {
+              "attribute_water": "f0_39119",
+              "attribute_type": "lake"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "195000",
+        "attribute_country": "f0_208",
+        "attribute_name": "Lappia",
+        "attribute_id": "f0_33634",
+        "attribute_capital": "f0_35414",
+        "city": {
+          "attribute_country": "f0_208",
+          "attribute_latitude": "66.3",
+          "attribute_longitude": "24.4",
+          "attribute_province": "f0_33634",
+          "attribute_id": "f0_35414",
+          "name": "Rovaniemi",
+          "population": {
+            "attribute_year": "87",
+            "value": "31000"
+          },
+          "located_at": {
+            "attribute_water": "f0_38322 f0_38328",
+            "attribute_type": "river"
+          }
+        }
+      },
+      {
+        "attribute_population": "209000",
+        "attribute_country": "f0_208",
+        "attribute_name": "Mikkeli",
+        "attribute_id": "f0_33639",
+        "attribute_capital": "f0_35419",
+        "city": {
+          "attribute_country": "f0_208",
+          "attribute_latitude": "61.4",
+          "attribute_longitude": "27.2",
+          "attribute_province": "f0_33639",
+          "attribute_id": "f0_35419",
+          "name": "Mikkeli",
+          "population": {
+            "attribute_year": "87",
+            "value": "28000"
+          },
+          "located_at": {
+            "attribute_water": "f0_39119",
+            "attribute_type": "lake"
+          }
+        }
+      },
+      {
+        "attribute_population": "242000",
+        "attribute_country": "f0_208",
+        "attribute_name": "Suomi",
+        "attribute_id": "f0_33643",
+        "attribute_capital": "f0_35424",
+        "city": {
+          "attribute_country": "f0_208",
+          "attribute_latitude": "62.1",
+          "attribute_longitude": "25.2",
+          "attribute_province": "f0_33643",
+          "attribute_id": "f0_35424",
+          "name": "Jyvaeskylae",
+          "population": {
+            "attribute_year": "87",
+            "value": "65511"
+          },
+          "located_at": {
+            "attribute_water": "f0_39278",
+            "attribute_type": "lake"
+          }
+        }
+      },
+      {
+        "attribute_population": "177000",
+        "attribute_country": "f0_208",
+        "attribute_name": "Pohjols-Karjala",
+        "attribute_id": "f0_33648",
+        "attribute_capital": "f0_35429",
+        "city": {
+          "attribute_country": "f0_208",
+          "attribute_latitude": "62.4",
+          "attribute_longitude": "29.5",
+          "attribute_province": "f0_33648",
+          "attribute_id": "f0_35429",
+          "name": "Joensuu",
+          "population": {
+            "attribute_year": "87",
+            "value": "44000"
+          },
+          "located_at": {
+            "attribute_water": "f0_39126",
+            "attribute_type": "lake"
+          }
+        }
+      },
+      {
+        "attribute_population": "415000",
+        "attribute_country": "f0_208",
+        "attribute_name": "Oulu",
+        "attribute_id": "f0_33653",
+        "attribute_capital": "f0_35434",
+        "city": {
+          "attribute_country": "f0_208",
+          "attribute_latitude": "65.3",
+          "attribute_longitude": "25.2",
+          "attribute_province": "f0_33653",
+          "attribute_id": "f0_35434",
+          "name": "Oulu",
+          "population": {
+            "attribute_year": "87",
+            "value": "97898"
+          },
+          "located_at": [
+            {
+              "attribute_water": "f0_38314",
+              "attribute_type": "river"
+            },
+            {
+              "attribute_water": "f0_38203",
+              "attribute_type": "sea"
+            }
+          ]
+        }
+      },
+      {
+        "attribute_population": "702000",
+        "attribute_country": "f0_208",
+        "attribute_name": "Turku-Pori",
+        "attribute_id": "f0_33657",
+        "attribute_capital": "f0_35440",
+        "city": [
+          {
+            "attribute_country": "f0_208",
+            "attribute_latitude": "60.3",
+            "attribute_longitude": "22.1",
+            "attribute_province": "f0_33657",
+            "attribute_id": "f0_35440",
+            "name": "Turku",
+            "population": {
+              "attribute_year": "87",
+              "value": "161292"
+            },
+            "located_at": {
+              "attribute_water": "f0_38203",
+              "attribute_type": "sea"
+            }
+          },
+          {
+            "attribute_country": "f0_208",
+            "attribute_latitude": "61.3",
+            "attribute_longitude": "21.2",
+            "attribute_province": "f0_33657",
+            "attribute_id": "f0_36483",
+            "name": "Pori",
+            "population": {
+              "attribute_year": "87",
+              "value": "77763"
+            },
+            "located_at": {
+              "attribute_water": "f0_38318",
+              "attribute_type": "river"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "1119000",
+        "attribute_country": "f0_208",
+        "attribute_name": "Uusimaa",
+        "attribute_id": "f0_33662",
+        "attribute_capital": "f0_1507",
+        "city": [
+          {
+            "attribute_country": "f0_208",
+            "attribute_latitude": "60.1667",
+            "attribute_longitude": "24.95",
+            "attribute_province": "f0_33662",
+            "attribute_id": "f0_1507",
+            "name": "Helsinki",
+            "population": {
+              "attribute_year": "87",
+              "value": "487428"
+            },
+            "located_at": {
+              "attribute_water": "f0_38203",
+              "attribute_type": "sea"
+            }
+          },
+          {
+            "attribute_country": "f0_208",
+            "attribute_latitude": "60.2",
+            "attribute_longitude": "24.3",
+            "attribute_province": "f0_33662",
+            "attribute_id": "f0_36473",
+            "name": "Espoo",
+            "population": {
+              "attribute_year": "87",
+              "value": "160480"
+            },
+            "located_at": {
+              "attribute_water": "f0_38203",
+              "attribute_type": "sea"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "430000",
+        "attribute_country": "f0_208",
+        "attribute_name": "Vaasa",
+        "attribute_id": "f0_33666",
+        "attribute_capital": "f0_35444",
+        "city": {
+          "attribute_country": "f0_208",
+          "attribute_latitude": "63",
+          "attribute_longitude": "21.3",
+          "attribute_province": "f0_33666",
+          "attribute_id": "f0_35444",
+          "name": "Vaasa",
+          "population": {
+            "attribute_year": "87",
+            "value": "54275"
+          },
+          "located_at": {
+            "attribute_water": "f0_38203",
+            "attribute_type": "sea"
+          }
+        }
+      }
+    ],
+    "religions": [
+      {
+        "attribute_percentage": "89",
+        "value": "Evangelical Lutheran"
+      },
+      {
+        "attribute_percentage": "1",
+        "value": "Greek Orthodox"
+      }
+    ],
+    "languages": [
+      {
+        "attribute_percentage": "6.3",
+        "value": "Swedish"
+      },
+      {
+        "attribute_percentage": "93.5",
+        "value": "Finnish"
+      }
+    ],
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": [
+      {
+        "attribute_country": "f0_332",
+        "attribute_length": "729"
+      },
+      {
+        "attribute_country": "f0_397",
+        "attribute_length": "586"
+      },
+      {
+        "attribute_country": "f0_358",
+        "attribute_length": "1313"
+      }
+    ]
+  },
+  {
+    "attribute_population": "58317448",
+    "attribute_gdp_total": "1173000",
+    "attribute_datacode": "FR",
+    "attribute_population_growth": "0.34",
+    "attribute_car_code": "F",
+    "attribute_gdp_ind": "26.5",
+    "attribute_name": "France",
+    "attribute_infant_mortality": "5.3",
+    "attribute_government": "republic",
+    "attribute_id": "f0_213",
+    "attribute_inflation": "1.7",
+    "attribute_gdp_agri": "2.4",
+    "attribute_total_area": "547030",
+    "attribute_gdp_serv": "71.1",
+    "attribute_capital": "f0_1510",
+    "name": "France",
+    "province": [
+      {
+        "attribute_population": "1624000",
+        "attribute_country": "f0_213",
+        "attribute_area": "8280",
+        "attribute_name": "Alsace",
+        "attribute_id": "f0_17485",
+        "attribute_capital": "f0_2420",
+        "city": [
+          {
+            "attribute_country": "f0_213",
+            "attribute_latitude": "48.5833",
+            "attribute_longitude": "7.76667",
+            "attribute_province": "f0_17485",
+            "attribute_id": "f0_2420",
+            "name": "Strasbourg",
+            "population": {
+              "attribute_year": "90",
+              "value": "252338"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17485",
+            "attribute_id": "f0_2603",
+            "name": "Mulhouse",
+            "population": {
+              "attribute_year": "90",
+              "value": "108357"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "2796000",
+        "attribute_country": "f0_213",
+        "attribute_area": "41309",
+        "attribute_name": "Aquitaine",
+        "attribute_id": "f0_17487",
+        "attribute_capital": "f0_2426",
+        "city": {
+          "attribute_country": "f0_213",
+          "attribute_latitude": "44.51",
+          "attribute_longitude": "-0.4",
+          "attribute_province": "f0_17487",
+          "attribute_id": "f0_2426",
+          "name": "Bordeaux",
+          "population": {
+            "attribute_year": "90",
+            "value": "210336"
+          }
+        }
+      },
+      {
+        "attribute_population": "1321000",
+        "attribute_country": "f0_213",
+        "attribute_area": "26013",
+        "attribute_name": "Auvergne",
+        "attribute_id": "f0_17489",
+        "attribute_capital": "f0_2581",
+        "city": {
+          "attribute_country": "f0_213",
+          "attribute_latitude": "45.5",
+          "attribute_longitude": "3.4",
+          "attribute_province": "f0_17489",
+          "attribute_id": "f0_2581",
+          "name": "Clermont Ferrand",
+          "population": {
+            "attribute_year": "90",
+            "value": "136181"
+          }
+        }
+      },
+      {
+        "attribute_population": "1391000",
+        "attribute_country": "f0_213",
+        "attribute_area": "17589",
+        "attribute_name": "Basse Normandie",
+        "attribute_id": "f0_17491",
+        "attribute_capital": "f0_2432",
+        "city": {
+          "attribute_country": "f0_213",
+          "attribute_latitude": "49.3",
+          "attribute_longitude": "-0.2",
+          "attribute_province": "f0_17491",
+          "attribute_id": "f0_2432",
+          "name": "Caen",
+          "population": {
+            "attribute_year": "90",
+            "value": "112846"
+          }
+        }
+      },
+      {
+        "attribute_population": "2796000",
+        "attribute_country": "f0_213",
+        "attribute_area": "27209",
+        "attribute_name": "Bretagne",
+        "attribute_id": "f0_17493",
+        "attribute_capital": "f0_2438",
+        "city": [
+          {
+            "attribute_country": "f0_213",
+            "attribute_latitude": "48.1",
+            "attribute_longitude": "-1.4",
+            "attribute_province": "f0_17493",
+            "attribute_id": "f0_2438",
+            "name": "Rennes",
+            "population": {
+              "attribute_year": "90",
+              "value": "197536"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17493",
+            "attribute_id": "f0_2576",
+            "name": "Brest",
+            "population": {
+              "attribute_year": "90",
+              "value": "147956"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "1609000",
+        "attribute_country": "f0_213",
+        "attribute_area": "31582",
+        "attribute_name": "Bourgogne",
+        "attribute_id": "f0_17495",
+        "attribute_capital": "f0_2444",
+        "city": {
+          "attribute_country": "f0_213",
+          "attribute_latitude": "47.2",
+          "attribute_longitude": "5.2",
+          "attribute_province": "f0_17495",
+          "attribute_id": "f0_2444",
+          "name": "Dijon",
+          "population": {
+            "attribute_year": "90",
+            "value": "146703"
+          }
+        }
+      },
+      {
+        "attribute_population": "2371000",
+        "attribute_country": "f0_213",
+        "attribute_area": "39151",
+        "attribute_name": "Centre",
+        "attribute_id": "f0_17497",
+        "attribute_capital": "f0_2450",
+        "city": [
+          {
+            "attribute_country": "f0_213",
+            "attribute_latitude": "47.5",
+            "attribute_longitude": "1.5",
+            "attribute_province": "f0_17497",
+            "attribute_id": "f0_2450",
+            "name": "Orleans",
+            "population": {
+              "attribute_year": "90",
+              "value": "105111"
+            },
+            "located_at": {
+              "attribute_water": "f0_38719",
+              "attribute_type": "river"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17497",
+            "attribute_id": "f0_2456",
+            "name": "Tours",
+            "population": {
+              "attribute_year": "90",
+              "value": "129509"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "1348000",
+        "attribute_country": "f0_213",
+        "attribute_area": "25606",
+        "attribute_name": "Champagne Ardenne",
+        "attribute_id": "f0_17499",
+        "attribute_capital": "f0_2613",
+        "city": [
+          {
+            "attribute_country": "f0_213",
+            "attribute_latitude": "49.1",
+            "attribute_longitude": "4.5",
+            "attribute_province": "f0_17499",
+            "attribute_id": "f0_2571",
+            "name": "Reims",
+            "population": {
+              "attribute_year": "90",
+              "value": "180620"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17499",
+            "attribute_id": "f0_2613",
+            "name": "Chalons sur Marne"
+          }
+        ]
+      },
+      {
+        "attribute_population": "250000",
+        "attribute_country": "f0_213",
+        "attribute_area": "8680",
+        "attribute_name": "Corse",
+        "attribute_id": "f0_17501",
+        "attribute_capital": "f0_2618",
+        "city": {
+          "attribute_country": "f0_213",
+          "attribute_latitude": "41.4",
+          "attribute_longitude": "8.4",
+          "attribute_province": "f0_17501",
+          "attribute_id": "f0_2618",
+          "name": "Ajaccio",
+          "population": {
+            "attribute_year": "87",
+            "value": "53500"
+          },
+          "located_at": {
+            "attribute_water": "f0_38042",
+            "attribute_type": "sea"
+          }
+        }
+      },
+      {
+        "attribute_population": "1097000",
+        "attribute_country": "f0_213",
+        "attribute_area": "16202",
+        "attribute_name": "Franche Comte",
+        "attribute_id": "f0_17503",
+        "attribute_capital": "f0_2597",
+        "city": {
+          "attribute_country": "f0_213",
+          "attribute_latitude": "47.1",
+          "attribute_longitude": "6.2",
+          "attribute_province": "f0_17503",
+          "attribute_id": "f0_2597",
+          "name": "Besancon",
+          "population": {
+            "attribute_year": "90",
+            "value": "113828"
+          }
+        }
+      },
+      {
+        "attribute_population": "1737000",
+        "attribute_country": "f0_213",
+        "attribute_area": "12318",
+        "attribute_name": "Haute Normandie",
+        "attribute_id": "f0_17505",
+        "attribute_capital": "f0_2461",
+        "city": [
+          {
+            "attribute_country": "f0_213",
+            "attribute_latitude": "49.3",
+            "attribute_longitude": "1.5",
+            "attribute_province": "f0_17505",
+            "attribute_id": "f0_2461",
+            "name": "Rouen",
+            "population": {
+              "attribute_year": "90",
+              "value": "102723"
+            },
+            "located_at": {
+              "attribute_water": "f0_38724",
+              "attribute_type": "river"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17505",
+            "attribute_id": "f0_2566",
+            "name": "Le Havre",
+            "population": {
+              "attribute_year": "90",
+              "value": "195854"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "10660000",
+        "attribute_country": "f0_213",
+        "attribute_area": "12011",
+        "attribute_name": "Ile de France",
+        "attribute_id": "f0_17507",
+        "attribute_capital": "f0_1510",
+        "city": [
+          {
+            "attribute_country": "f0_213",
+            "attribute_latitude": "48.8167",
+            "attribute_longitude": "2.48333",
+            "attribute_province": "f0_17507",
+            "attribute_id": "f0_1510",
+            "name": "Paris",
+            "population": {
+              "attribute_year": "90",
+              "value": "2152423"
+            },
+            "located_at": {
+              "attribute_water": "f0_38724",
+              "attribute_type": "river"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17507",
+            "attribute_id": "f0_2608",
+            "name": "Boulogne Billancourt",
+            "population": {
+              "attribute_year": "90",
+              "value": "101743"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "2115000",
+        "attribute_country": "f0_213",
+        "attribute_area": "27376",
+        "attribute_name": "Languedoc Rousillon",
+        "attribute_id": "f0_17509",
+        "attribute_capital": "f0_2467",
+        "city": [
+          {
+            "attribute_country": "f0_213",
+            "attribute_latitude": "43.3",
+            "attribute_longitude": "3.5",
+            "attribute_province": "f0_17509",
+            "attribute_id": "f0_2467",
+            "name": "Montpellier",
+            "population": {
+              "attribute_year": "90",
+              "value": "207996"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17509",
+            "attribute_id": "f0_2473",
+            "name": "Nimes",
+            "population": {
+              "attribute_year": "90",
+              "value": "128471"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17509",
+            "attribute_id": "f0_2478",
+            "name": "Perpignan",
+            "population": {
+              "attribute_year": "90",
+              "value": "105983"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "723000",
+        "attribute_country": "f0_213",
+        "attribute_area": "16942",
+        "attribute_name": "Limousin",
+        "attribute_id": "f0_17511",
+        "attribute_capital": "f0_2483",
+        "city": {
+          "attribute_country": "f0_213",
+          "attribute_latitude": "45.5",
+          "attribute_longitude": "1.2",
+          "attribute_province": "f0_17511",
+          "attribute_id": "f0_2483",
+          "name": "Limoges",
+          "population": {
+            "attribute_year": "90",
+            "value": "133464"
+          }
+        }
+      },
+      {
+        "attribute_population": "2306000",
+        "attribute_country": "f0_213",
+        "attribute_area": "23547",
+        "attribute_name": "Lorraine",
+        "attribute_id": "f0_17513",
+        "attribute_capital": "f0_2489",
+        "city": [
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17513",
+            "attribute_id": "f0_2489",
+            "name": "Metz",
+            "population": {
+              "attribute_year": "90",
+              "value": "119594"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_latitude": "48.4",
+            "attribute_longitude": "6.1",
+            "attribute_province": "f0_17513",
+            "attribute_id": "f0_2495",
+            "name": "Nancy",
+            "population": {
+              "attribute_year": "90",
+              "value": "99351"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "2431000",
+        "attribute_country": "f0_213",
+        "attribute_area": "45349",
+        "attribute_name": "Midi Pyrenees",
+        "attribute_id": "f0_17515",
+        "attribute_capital": "f0_2500",
+        "city": {
+          "attribute_country": "f0_213",
+          "attribute_latitude": "43.4",
+          "attribute_longitude": "1.2",
+          "attribute_province": "f0_17515",
+          "attribute_id": "f0_2500",
+          "name": "Toulouse",
+          "population": {
+            "attribute_year": "90",
+            "value": "358688"
+          },
+          "located_at": {
+            "attribute_water": "f0_38729",
+            "attribute_type": "river"
+          }
+        }
+      },
+      {
+        "attribute_population": "3965000",
+        "attribute_country": "f0_213",
+        "attribute_area": "12413",
+        "attribute_name": "Nord Pas de Calais",
+        "attribute_id": "f0_17517",
+        "attribute_capital": "f0_2506",
+        "city": {
+          "attribute_country": "f0_213",
+          "attribute_latitude": "50.37",
+          "attribute_longitude": "3.3",
+          "attribute_province": "f0_17517",
+          "attribute_id": "f0_2506",
+          "name": "Lille",
+          "population": {
+            "attribute_year": "90",
+            "value": "172142"
+          }
+        }
+      },
+      {
+        "attribute_population": "3059000",
+        "attribute_country": "f0_213",
+        "attribute_area": "32082",
+        "attribute_name": "Pays de la Loire",
+        "attribute_id": "f0_17519",
+        "attribute_capital": "f0_2512",
+        "city": [
+          {
+            "attribute_country": "f0_213",
+            "attribute_latitude": "47.25",
+            "attribute_longitude": "-1.56667",
+            "attribute_province": "f0_17519",
+            "attribute_id": "f0_2512",
+            "name": "Nantes",
+            "population": {
+              "attribute_year": "90",
+              "value": "244995"
+            },
+            "located_at": {
+              "attribute_water": "f0_38719",
+              "attribute_type": "river"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17519",
+            "attribute_id": "f0_2518",
+            "name": "Angers",
+            "population": {
+              "attribute_year": "90",
+              "value": "141404"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17519",
+            "attribute_id": "f0_2523",
+            "name": "Le Mans",
+            "population": {
+              "attribute_year": "90",
+              "value": "145502"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "1811000",
+        "attribute_country": "f0_213",
+        "attribute_area": "19399",
+        "attribute_name": "Picardie",
+        "attribute_id": "f0_17521",
+        "attribute_capital": "f0_2528",
+        "city": {
+          "attribute_country": "f0_213",
+          "attribute_latitude": "49.55",
+          "attribute_longitude": "2.19",
+          "attribute_province": "f0_17521",
+          "attribute_id": "f0_2528",
+          "name": "Amiens",
+          "population": {
+            "attribute_year": "90",
+            "value": "131872"
+          }
+        }
+      },
+      {
+        "attribute_population": "1595000",
+        "attribute_country": "f0_213",
+        "attribute_area": "25809",
+        "attribute_name": "Poitou Charentes",
+        "attribute_id": "f0_17523",
+        "attribute_capital": "f0_2623",
+        "city": {
+          "attribute_country": "f0_213",
+          "attribute_latitude": "46.4",
+          "attribute_longitude": "0.2",
+          "attribute_province": "f0_17523",
+          "attribute_id": "f0_2623",
+          "name": "Poitiers",
+          "population": {
+            "attribute_year": "87",
+            "value": "79300"
+          }
+        }
+      },
+      {
+        "attribute_population": "4258000",
+        "attribute_country": "f0_213",
+        "attribute_area": "31400",
+        "attribute_name": "Provence Cote dAzur",
+        "attribute_id": "f0_17525",
+        "attribute_capital": "f0_2534",
+        "city": [
+          {
+            "attribute_country": "f0_213",
+            "attribute_latitude": "43.2",
+            "attribute_longitude": "5.2",
+            "attribute_province": "f0_17525",
+            "attribute_id": "f0_2534",
+            "name": "Marseille",
+            "population": {
+              "attribute_year": "90",
+              "value": "800550"
+            },
+            "located_at": {
+              "attribute_water": "f0_38042",
+              "attribute_type": "sea"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_latitude": "43.7",
+            "attribute_longitude": "7.26667",
+            "attribute_province": "f0_17525",
+            "attribute_id": "f0_2540",
+            "name": "Nice",
+            "population": {
+              "attribute_year": "90",
+              "value": "342439"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17525",
+            "attribute_id": "f0_2545",
+            "name": "Toulon",
+            "population": {
+              "attribute_year": "90",
+              "value": "167619"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17525",
+            "attribute_id": "f0_2587",
+            "name": "Aix en Provence",
+            "population": {
+              "attribute_year": "90",
+              "value": "123842"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "5351000",
+        "attribute_country": "f0_213",
+        "attribute_area": "43698",
+        "attribute_name": "Rhone Alpes",
+        "attribute_id": "f0_17527",
+        "attribute_capital": "f0_2550",
+        "city": [
+          {
+            "attribute_country": "f0_213",
+            "attribute_latitude": "45.7",
+            "attribute_longitude": "4.78333",
+            "attribute_province": "f0_17527",
+            "attribute_id": "f0_2550",
+            "name": "Lyon",
+            "population": {
+              "attribute_year": "90",
+              "value": "415487"
+            },
+            "located_at": {
+              "attribute_water": "f0_38734",
+              "attribute_type": "river"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17527",
+            "attribute_id": "f0_2556",
+            "name": "Grenoble",
+            "population": {
+              "attribute_year": "90",
+              "value": "150758"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17527",
+            "attribute_id": "f0_2561",
+            "name": "Saint Etienne",
+            "population": {
+              "attribute_year": "90",
+              "value": "199396"
+            }
+          },
+          {
+            "attribute_country": "f0_213",
+            "attribute_province": "f0_17527",
+            "attribute_id": "f0_2592",
+            "name": "Villeurbanne",
+            "population": {
+              "attribute_year": "90",
+              "value": "116872"
+            }
+          }
+        ]
+      }
+    ],
+    "religions": [
+      {
+        "attribute_percentage": "1",
+        "value": "Muslim"
+      },
+      {
+        "attribute_percentage": "1",
+        "value": "Jewish"
+      },
+      {
+        "attribute_percentage": "90",
+        "value": "Roman Catholic"
+      },
+      {
+        "attribute_percentage": "2",
+        "value": "Protestant"
+      }
+    ],
+    "languages": {
+      "attribute_percentage": "100",
+      "value": "French"
+    },
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": [
+      {
+        "attribute_country": "f0_144",
+        "attribute_length": "60"
+      },
+      {
+        "attribute_country": "f0_162",
+        "attribute_length": "620"
+      },
+      {
+        "attribute_country": "f0_220",
+        "attribute_length": "451"
+      },
+      {
+        "attribute_country": "f0_268",
+        "attribute_length": "488"
+      },
+      {
+        "attribute_country": "f0_295",
+        "attribute_length": "73"
+      },
+      {
+        "attribute_country": "f0_320",
+        "attribute_length": "4.4"
+      },
+      {
+        "attribute_country": "f0_385",
+        "attribute_length": "623"
+      },
+      {
+        "attribute_country": "f0_404",
+        "attribute_length": "573"
+      }
+    ]
+  },
+  {
+    "attribute_population": "83536112",
+    "attribute_gdp_total": "1452200",
+    "attribute_datacode": "GM",
+    "attribute_population_growth": "0.67",
+    "attribute_car_code": "D",
+    "attribute_indep_date": "18 01 1871",
+    "attribute_gdp_ind": "34.2",
+    "attribute_name": "Germany",
+    "attribute_infant_mortality": "6",
+    "attribute_government": "federal republic",
+    "attribute_id": "f0_220",
+    "attribute_gdp_serv": "64.8",
+    "attribute_gdp_agri": "1",
+    "attribute_total_area": "356910",
+    "attribute_capital": "f0_1515",
+    "name": "Germany",
+    "province": [
+      {
+        "attribute_population": "10272069",
+        "attribute_country": "f0_220",
+        "attribute_area": "35742",
+        "attribute_name": "Baden Wurttemberg",
+        "attribute_id": "f0_17529",
+        "attribute_capital": "f0_2628",
+        "city": [
+          {
+            "attribute_country": "f0_220",
+            "attribute_latitude": "48.7",
+            "attribute_longitude": "9.1",
+            "attribute_province": "f0_17529",
+            "attribute_id": "f0_2628",
+            "name": "Stuttgart",
+            "population": {
+              "attribute_year": "95",
+              "value": "588482"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_latitude": "49.5667",
+            "attribute_longitude": "8.46667",
+            "attribute_province": "f0_17529",
+            "attribute_id": "f0_2772",
+            "name": "Mannheim",
+            "population": {
+              "attribute_year": "95",
+              "value": "316223"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17529",
+            "attribute_id": "f0_2792",
+            "name": "Karlsruhe",
+            "population": {
+              "attribute_year": "95",
+              "value": "277011"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17529",
+            "attribute_id": "f0_2857",
+            "name": "Freiburg im Breisgau",
+            "population": {
+              "attribute_year": "95",
+              "value": "198496"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17529",
+            "attribute_id": "f0_2912",
+            "name": "Heidelberg",
+            "population": {
+              "attribute_year": "95",
+              "value": "138964"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17529",
+            "attribute_id": "f0_2967",
+            "name": "Heilbronn",
+            "population": {
+              "attribute_year": "95",
+              "value": "122253"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17529",
+            "attribute_id": "f0_2977",
+            "name": "Pforzheim",
+            "population": {
+              "attribute_year": "95",
+              "value": "117960"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17529",
+            "attribute_id": "f0_2992",
+            "name": "Ulm",
+            "population": {
+              "attribute_year": "95",
+              "value": "115123"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17529",
+            "attribute_id": "f0_3017",
+            "name": "Reutlingen",
+            "population": {
+              "attribute_year": "95",
+              "value": "107782"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "11921944",
+        "attribute_country": "f0_220",
+        "attribute_area": "70546",
+        "attribute_name": "Bayern",
+        "attribute_id": "f0_17531",
+        "attribute_capital": "f0_2712",
+        "city": [
+          {
+            "attribute_country": "f0_220",
+            "attribute_latitude": "48.15",
+            "attribute_longitude": "11.5667",
+            "attribute_province": "f0_17531",
+            "attribute_id": "f0_2712",
+            "name": [
+              "Munchen",
+              "Munich"
+            ],
+            "population": {
+              "attribute_year": "95",
+              "value": "1244676"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17531",
+            "attribute_id": "f0_2747",
+            "name": "Nurnberg",
+            "population": {
+              "attribute_year": "95",
+              "value": "495845"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17531",
+            "attribute_id": "f0_2812",
+            "name": "Augsburg",
+            "population": {
+              "attribute_year": "95",
+              "value": "262110"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17531",
+            "attribute_id": "f0_2927",
+            "name": "Wurzburg",
+            "population": {
+              "attribute_year": "95",
+              "value": "127946"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17531",
+            "attribute_id": "f0_2957",
+            "name": "Regensburg",
+            "population": {
+              "attribute_year": "95",
+              "value": "125608"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17531",
+            "attribute_id": "f0_3002",
+            "name": "Ingolstadt",
+            "population": {
+              "attribute_year": "95",
+              "value": "110910"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17531",
+            "attribute_id": "f0_3012",
+            "name": "Furth",
+            "population": {
+              "attribute_year": "95",
+              "value": "107799"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17531",
+            "attribute_id": "f0_3057",
+            "name": "Erlangen",
+            "population": {
+              "attribute_year": "95",
+              "value": "101450"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_latitude": "48.1",
+            "attribute_longitude": "11.3",
+            "attribute_province": "f0_17531",
+            "attribute_id": "f0_36767",
+            "name": "Muenchen",
+            "population": {
+              "attribute_year": "87",
+              "value": "1290079"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "3472009",
+        "attribute_country": "f0_220",
+        "attribute_area": "889",
+        "attribute_name": "Berlin",
+        "attribute_id": "f0_17533",
+        "attribute_capital": "f0_1515",
+        "city": {
+          "attribute_country": "f0_220",
+          "attribute_latitude": "52.45",
+          "attribute_longitude": "13.3",
+          "attribute_province": "f0_17533",
+          "attribute_id": "f0_1515",
+          "name": "Berlin",
+          "population": {
+            "attribute_year": "95",
+            "value": "3472009"
+          }
+        }
+      },
+      {
+        "attribute_population": "2536747",
+        "attribute_country": "f0_220",
+        "attribute_area": "29480",
+        "attribute_name": "Brandenburg",
+        "attribute_id": "f0_17534",
+        "attribute_capital": "f0_2634",
+        "city": [
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17534",
+            "attribute_id": "f0_2634",
+            "name": "Potsdam",
+            "population": {
+              "attribute_year": "95",
+              "value": "138268"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17534",
+            "attribute_id": "f0_2952",
+            "name": "Cottbus",
+            "population": {
+              "attribute_year": "95",
+              "value": "125643"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "680000",
+        "attribute_country": "f0_220",
+        "attribute_area": "404",
+        "attribute_name": "Bremen",
+        "attribute_id": "f0_17536",
+        "attribute_capital": "f0_2640",
+        "city": [
+          {
+            "attribute_country": "f0_220",
+            "attribute_latitude": "53.7",
+            "attribute_longitude": "8.5",
+            "attribute_province": "f0_17536",
+            "attribute_id": "f0_2640",
+            "name": "Bremen",
+            "population": {
+              "attribute_year": "95",
+              "value": "549182"
+            },
+            "located_at": {
+              "attribute_water": "f0_38703",
+              "attribute_type": "river"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17536",
+            "attribute_id": "f0_2922",
+            "name": "Bremerhaven",
+            "population": {
+              "attribute_year": "95",
+              "value": "130847"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "1705872",
+        "attribute_country": "f0_220",
+        "attribute_area": "755",
+        "attribute_name": "Hamburg",
+        "attribute_id": "f0_17537",
+        "attribute_capital": "f0_2646",
+        "city": {
+          "attribute_country": "f0_220",
+          "attribute_latitude": "53.55",
+          "attribute_longitude": "9.96667",
+          "attribute_province": "f0_17537",
+          "attribute_id": "f0_2646",
+          "name": "Hamburg",
+          "population": {
+            "attribute_year": "95",
+            "value": "1705872"
+          },
+          "located_at": {
+            "attribute_water": "f0_38506",
+            "attribute_type": "river"
+          }
+        }
+      },
+      {
+        "attribute_population": "5980693",
+        "attribute_country": "f0_220",
+        "attribute_area": "21115",
+        "attribute_name": "Hessen",
+        "attribute_id": "f0_17538",
+        "attribute_capital": "f0_2652",
+        "city": [
+          {
+            "attribute_country": "f0_220",
+            "attribute_latitude": "50.07",
+            "attribute_longitude": "8.17",
+            "attribute_province": "f0_17538",
+            "attribute_id": "f0_2652",
+            "name": "Wiesbaden",
+            "population": {
+              "attribute_year": "95",
+              "value": "266081"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17538",
+            "attribute_id": "f0_2727",
+            "name": "Frankfurt am Main",
+            "population": {
+              "attribute_year": "95",
+              "value": "652412"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17538",
+            "attribute_id": "f0_2852",
+            "name": "Kassel",
+            "population": {
+              "attribute_year": "95",
+              "value": "201789"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17538",
+            "attribute_id": "f0_2907",
+            "name": "Darmstadt",
+            "population": {
+              "attribute_year": "95",
+              "value": "139063"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17538",
+            "attribute_id": "f0_2987",
+            "name": "Offenbach am Main",
+            "population": {
+              "attribute_year": "95",
+              "value": "116482"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "1832298",
+        "attribute_country": "f0_220",
+        "attribute_area": "23170",
+        "attribute_name": "Mecklenburg Vorpommern",
+        "attribute_id": "f0_17540",
+        "attribute_capital": "f0_2658",
+        "city": [
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17540",
+            "attribute_id": "f0_2658",
+            "name": "Schwerin",
+            "population": {
+              "attribute_year": "95",
+              "value": "118291"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17540",
+            "attribute_id": "f0_2832",
+            "name": "Rostock",
+            "population": {
+              "attribute_year": "95",
+              "value": "232634"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "7715363",
+        "attribute_country": "f0_220",
+        "attribute_area": "47609",
+        "attribute_name": "Niedersachsen",
+        "attribute_id": "f0_17542",
+        "attribute_capital": "f0_2664",
+        "city": [
+          {
+            "attribute_country": "f0_220",
+            "attribute_latitude": "52.4",
+            "attribute_longitude": "9.66667",
+            "attribute_province": "f0_17542",
+            "attribute_id": "f0_2664",
+            "name": "Hannover",
+            "population": {
+              "attribute_year": "95",
+              "value": "525763"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17542",
+            "attribute_id": "f0_2817",
+            "name": "Braunschweig",
+            "population": {
+              "attribute_year": "95",
+              "value": "254130"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17542",
+            "attribute_id": "f0_2877",
+            "name": "Osnabruck",
+            "population": {
+              "attribute_year": "95",
+              "value": "168050"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17542",
+            "attribute_id": "f0_2897",
+            "name": "Oldenburg",
+            "population": {
+              "attribute_year": "95",
+              "value": "149691"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17542",
+            "attribute_id": "f0_2932",
+            "name": "Gottingen",
+            "population": {
+              "attribute_year": "95",
+              "value": "127519"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17542",
+            "attribute_id": "f0_2942",
+            "name": "Wolfsburg",
+            "population": {
+              "attribute_year": "95",
+              "value": "126965"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17542",
+            "attribute_id": "f0_2982",
+            "name": "Salzgitter",
+            "population": {
+              "attribute_year": "95",
+              "value": "117842"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17542",
+            "attribute_id": "f0_3027",
+            "name": "Hildesheim",
+            "population": {
+              "attribute_year": "95",
+              "value": "106095"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "17816080",
+        "attribute_country": "f0_220",
+        "attribute_area": "34077",
+        "attribute_name": "Nordrhein Westfalen",
+        "attribute_id": "f0_17544",
+        "attribute_capital": "f0_2670",
+        "city": [
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2670",
+            "name": "Dusseldorf",
+            "population": {
+              "attribute_year": "95",
+              "value": "572638"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2720",
+            "name": [
+              "Koln",
+              "Cologne"
+            ],
+            "population": {
+              "attribute_year": "95",
+              "value": "963817"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2732",
+            "name": "Essen",
+            "population": {
+              "attribute_year": "95",
+              "value": "617955"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2737",
+            "name": "Dortmund",
+            "population": {
+              "attribute_year": "95",
+              "value": "600918"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2742",
+            "name": "Duisburg",
+            "population": {
+              "attribute_year": "95",
+              "value": "536106"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2757",
+            "name": "Bochum",
+            "population": {
+              "attribute_year": "95",
+              "value": "401129"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2762",
+            "name": "Wuppertal",
+            "population": {
+              "attribute_year": "95",
+              "value": "383776"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2767",
+            "name": "Bielefeld",
+            "population": {
+              "attribute_year": "95",
+              "value": "324067"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2777",
+            "name": "Gelsenkirchen",
+            "population": {
+              "attribute_year": "95",
+              "value": "293542"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_latitude": "50.4",
+            "attribute_longitude": "7.5",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2782",
+            "name": "Bonn",
+            "population": {
+              "attribute_year": "95",
+              "value": "293072"
+            },
+            "located_at": {
+              "attribute_water": "f0_38689",
+              "attribute_type": "river"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2802",
+            "name": "Monchengladbach",
+            "population": {
+              "attribute_year": "95",
+              "value": "266073"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2807",
+            "name": "Munster",
+            "population": {
+              "attribute_year": "95",
+              "value": "264887"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2822",
+            "name": "Krefeld",
+            "population": {
+              "attribute_year": "95",
+              "value": "249662"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2827",
+            "name": "Aachen",
+            "population": {
+              "attribute_year": "95",
+              "value": "247113"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2837",
+            "name": "Oberhausen",
+            "population": {
+              "attribute_year": "95",
+              "value": "225443"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2847",
+            "name": "Hagen",
+            "population": {
+              "attribute_year": "95",
+              "value": "213747"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2862",
+            "name": "Hamm",
+            "population": {
+              "attribute_year": "95",
+              "value": "184020"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2867",
+            "name": "Herne",
+            "population": {
+              "attribute_year": "95",
+              "value": "180029"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2872",
+            "name": "Mulheim an der Ruhr",
+            "population": {
+              "attribute_year": "95",
+              "value": "176513"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2887",
+            "name": "Solingen",
+            "population": {
+              "attribute_year": "95",
+              "value": "165973"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2892",
+            "name": "Leverkusen",
+            "population": {
+              "attribute_year": "95",
+              "value": "161832"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2902",
+            "name": "Neuss",
+            "population": {
+              "attribute_year": "95",
+              "value": "148870"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2917",
+            "name": "Paderborn",
+            "population": {
+              "attribute_year": "95",
+              "value": "131513"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2937",
+            "name": "Recklinghausen",
+            "population": {
+              "attribute_year": "95",
+              "value": "127139"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2962",
+            "name": "Remscheid",
+            "population": {
+              "attribute_year": "95",
+              "value": "123069"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2972",
+            "name": "Bottrop",
+            "population": {
+              "attribute_year": "95",
+              "value": "119669"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_2997",
+            "name": "Siegen",
+            "population": {
+              "attribute_year": "95",
+              "value": "111541"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_3022",
+            "name": "Moers",
+            "population": {
+              "attribute_year": "95",
+              "value": "107011"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_3032",
+            "name": "Witten",
+            "population": {
+              "attribute_year": "95",
+              "value": "105423"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_3037",
+            "name": "Bergisch Gladbach",
+            "population": {
+              "attribute_year": "95",
+              "value": "105122"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_latitude": "51.1",
+            "attribute_longitude": "6.5",
+            "attribute_province": "f0_17544",
+            "attribute_id": "f0_36759",
+            "name": "Duesseldorf",
+            "population": {
+              "attribute_year": "87",
+              "value": "567210"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "3951573",
+        "attribute_country": "f0_220",
+        "attribute_area": "19851",
+        "attribute_name": "Rheinland Pfalz",
+        "attribute_id": "f0_17546",
+        "attribute_capital": "f0_2676",
+        "city": [
+          {
+            "attribute_country": "f0_220",
+            "attribute_latitude": "50",
+            "attribute_longitude": "8.1",
+            "attribute_province": "f0_17546",
+            "attribute_id": "f0_2676",
+            "name": "Mainz",
+            "population": {
+              "attribute_year": "95",
+              "value": "184627"
+            },
+            "located_at": {
+              "attribute_water": "f0_38689",
+              "attribute_type": "river"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17546",
+            "attribute_id": "f0_2882",
+            "name": "Ludwigshafen",
+            "population": {
+              "attribute_year": "95",
+              "value": "167883"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17546",
+            "attribute_id": "f0_3007",
+            "name": "Koblenz",
+            "population": {
+              "attribute_year": "95",
+              "value": "109550"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17546",
+            "attribute_id": "f0_3052",
+            "name": "Kaiserslautern",
+            "population": {
+              "attribute_year": "95",
+              "value": "101910"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "1084201",
+        "attribute_country": "f0_220",
+        "attribute_area": "2570",
+        "attribute_name": "Saarland",
+        "attribute_id": "f0_17548",
+        "attribute_capital": "f0_2682",
+        "city": [
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17548",
+            "attribute_id": "f0_2682",
+            "name": "Saarbrucken",
+            "population": {
+              "attribute_year": "95",
+              "value": "189012"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_latitude": "49.1",
+            "attribute_longitude": "6.6",
+            "attribute_province": "f0_17548",
+            "attribute_id": "f0_36763",
+            "name": "Saarbruecken",
+            "population": {
+              "attribute_year": "87",
+              "value": "183945"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "4584345",
+        "attribute_country": "f0_220",
+        "attribute_area": "18412",
+        "attribute_name": "Sachsen",
+        "attribute_id": "f0_17550",
+        "attribute_capital": "f0_2688",
+        "city": [
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17550",
+            "attribute_id": "f0_2688",
+            "name": "Dresden",
+            "population": {
+              "attribute_year": "95",
+              "value": "474443"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17550",
+            "attribute_id": "f0_2752",
+            "name": "Leipzig",
+            "population": {
+              "attribute_year": "95",
+              "value": "481121"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17550",
+            "attribute_id": "f0_2797",
+            "name": "Chemnitz",
+            "population": {
+              "attribute_year": "95",
+              "value": "274162"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17550",
+            "attribute_id": "f0_3042",
+            "name": "Zwickau",
+            "population": {
+              "attribute_year": "95",
+              "value": "104921"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "2759213",
+        "attribute_country": "f0_220",
+        "attribute_area": "20446",
+        "attribute_name": "Sachsen Anhalt",
+        "attribute_id": "f0_17552",
+        "attribute_capital": "f0_2694",
+        "city": [
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17552",
+            "attribute_id": "f0_2694",
+            "name": "Magdeburg",
+            "population": {
+              "attribute_year": "95",
+              "value": "265379"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17552",
+            "attribute_id": "f0_2787",
+            "name": "Halle",
+            "population": {
+              "attribute_year": "95",
+              "value": "290051"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "2708392",
+        "attribute_country": "f0_220",
+        "attribute_area": "15738",
+        "attribute_name": "Schleswig Holstein",
+        "attribute_id": "f0_17554",
+        "attribute_capital": "f0_2700",
+        "city": [
+          {
+            "attribute_country": "f0_220",
+            "attribute_latitude": "54.2",
+            "attribute_longitude": "10.7",
+            "attribute_province": "f0_17554",
+            "attribute_id": "f0_2700",
+            "name": "Kiel",
+            "population": {
+              "attribute_year": "95",
+              "value": "246586"
+            },
+            "located_at": {
+              "attribute_water": "f0_38203",
+              "attribute_type": "sea"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17554",
+            "attribute_id": "f0_2842",
+            "name": "Lubeck",
+            "population": {
+              "attribute_year": "95",
+              "value": "216854"
+            }
+          }
+        ]
+      },
+      {
+        "attribute_population": "2517776",
+        "attribute_country": "f0_220",
+        "attribute_area": "16171",
+        "attribute_name": "Thuringen",
+        "attribute_id": "f0_17556",
+        "attribute_capital": "f0_2706",
+        "city": [
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17556",
+            "attribute_id": "f0_2706",
+            "name": "Erfurt",
+            "population": {
+              "attribute_year": "95",
+              "value": "213472"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17556",
+            "attribute_id": "f0_2947",
+            "name": "Gera",
+            "population": {
+              "attribute_year": "95",
+              "value": "126035"
+            }
+          },
+          {
+            "attribute_country": "f0_220",
+            "attribute_province": "f0_17556",
+            "attribute_id": "f0_3047",
+            "name": "Jena",
+            "population": {
+              "attribute_year": "95",
+              "value": "102204"
+            }
+          }
+        ]
+      }
+    ],
+    "ethnicgroups": [
+      {
+        "attribute_percentage": "0.4",
+        "value": "Greeks"
+      },
+      {
+        "attribute_percentage": "95.1",
+        "value": "German"
+      },
+      {
+        "attribute_percentage": "0.7",
+        "value": "Italians"
+      },
+      {
+        "attribute_percentage": "2.3",
+        "value": "Turkish"
+      },
+      {
+        "attribute_percentage": "0.4",
+        "value": "Poles"
+      }
+    ],
+    "religions": [
+      {
+        "attribute_percentage": "37",
+        "value": "Roman Catholic"
+      },
+      {
+        "attribute_percentage": "45",
+        "value": "Protestant"
+      }
+    ],
+    "languages": {
+      "attribute_percentage": "100",
+      "value": "German"
+    },
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": [
+      {
+        "attribute_country": "f0_149",
+        "attribute_length": "784"
+      },
+      {
+        "attribute_country": "f0_162",
+        "attribute_length": "167"
+      },
+      {
+        "attribute_country": "f0_184",
+        "attribute_length": "646"
+      },
+      {
+        "attribute_country": "f0_193",
+        "attribute_length": "68"
+      },
+      {
+        "attribute_country": "f0_213",
+        "attribute_length": "451"
+      },
+      {
+        "attribute_country": "f0_295",
+        "attribute_length": "138"
+      },
+      {
+        "attribute_country": "f0_325",
+        "attribute_length": "577"
+      },
+      {
+        "attribute_country": "f0_337",
+        "attribute_length": "456"
+      },
+      {
+        "attribute_country": "f0_404",
+        "attribute_length": "334"
+      }
+    ]
+  },
+  {
+    "attribute_population": "28765",
+    "attribute_gdp_total": "205",
+    "attribute_datacode": "GI",
+    "attribute_population_growth": "0.54",
+    "attribute_name": "Gibraltar",
+    "attribute_infant_mortality": "6.9",
+    "attribute_government": "dependent territory of the UK",
+    "attribute_id": "f0_227",
+    "attribute_total_area": "6.5",
+    "attribute_capital": "f0_1520",
+    "name": "Gibraltar",
+    "city": {
+      "attribute_country": "f0_227",
+      "attribute_latitude": "36.15",
+      "attribute_longitude": "-5.36667",
+      "attribute_id": "f0_1520",
+      "name": "Gibraltar"
+    },
+    "religions": [
+      {
+        "attribute_percentage": "8",
+        "value": "Muslim"
+      },
+      {
+        "attribute_percentage": "2",
+        "value": "Jewish"
+      },
+      {
+        "attribute_percentage": "74",
+        "value": "Roman Catholic"
+      },
+      {
+        "attribute_percentage": "11",
+        "value": "Protestant"
+      }
+    ],
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": {
+      "attribute_country": "f0_385",
+      "attribute_length": "1.2"
+    }
+  },
+  {
+    "attribute_gdp_total": "101700",
+    "attribute_population": "10538594",
+    "attribute_population_growth": "0.42",
+    "attribute_datacode": "GR",
+    "attribute_car_code": "GR",
+    "attribute_indep_date": "01 01 1829",
+    "attribute_gdp_ind": "22.2",
+    "attribute_name": "Greece",
+    "attribute_infant_mortality": "7.4",
+    "attribute_government": "parliamentary republic",
+    "attribute_id": "f0_232",
+    "attribute_inflation": "8.1",
+    "attribute_gdp_serv": "66",
+    "attribute_total_area": "131940",
+    "attribute_gdp_agri": "11.8",
+    "attribute_capital": "f0_1522",
+    "name": "Greece",
+    "city": [
+      {
+        "attribute_country": "f0_232",
+        "attribute_latitude": "40.6167",
+        "attribute_longitude": "22.95",
+        "attribute_id": "f0_3062",
+        "name": [
+          "Thessaloniki",
+          "Salonika"
+        ],
+        "population": {
+          "attribute_year": "81",
+          "value": "406413"
+        }
+      },
+      {
+        "attribute_country": "f0_232",
+        "attribute_id": "f0_3069",
+        "name": "Piraeus",
+        "population": {
+          "attribute_year": "81",
+          "value": "196389"
+        }
+      },
+      {
+        "attribute_country": "f0_232",
+        "attribute_id": "f0_3074",
+        "name": "Patrai",
+        "population": {
+          "attribute_year": "81",
+          "value": "142163"
+        }
+      },
+      {
+        "attribute_country": "f0_232",
+        "attribute_id": "f0_3079",
+        "name": "Larisa",
+        "population": {
+          "attribute_year": "81",
+          "value": "102426"
+        }
+      },
+      {
+        "attribute_country": "f0_232",
+        "attribute_id": "f0_3084",
+        "name": "Iraklion",
+        "population": {
+          "attribute_year": "81",
+          "value": "102398"
+        }
+      },
+      {
+        "attribute_country": "f0_232",
+        "attribute_id": "f0_3089",
+        "name": "Volos",
+        "population": {
+          "attribute_year": "81",
+          "value": "71378"
+        }
+      },
+      {
+        "attribute_country": "f0_232",
+        "attribute_id": "f0_3094",
+        "name": "Kavalla",
+        "population": {
+          "attribute_year": "81",
+          "value": "56705"
+        }
+      }
+    ],
+    "province": [
+      {
+        "attribute_population": "574308",
+        "attribute_country": "f0_232",
+        "attribute_area": "14157",
+        "attribute_name": "Anatoliki Makedhonia kai Thraki",
+        "attribute_id": "f0_17558"
+      },
+      {
+        "attribute_population": "3522769",
+        "attribute_country": "f0_232",
+        "attribute_area": "3808",
+        "attribute_name": "Attiki",
+        "attribute_id": "f0_17561",
+        "city": {
+          "attribute_country": "f0_232",
+          "attribute_latitude": "37.9667",
+          "attribute_longitude": "23.7167",
+          "attribute_province": "f0_17561",
+          "attribute_id": "f0_1522",
+          "name": [
+            "Athens",
+            "Athinai"
+          ],
+          "population": {
+            "attribute_year": "81",
+            "value": "885737"
+          },
+          "located_at": {
+            "attribute_water": "f0_38042",
+            "attribute_type": "sea"
+          }
+        }
+      },
+      {
+        "attribute_population": "702027",
+        "attribute_country": "f0_232",
+        "attribute_area": "11350",
+        "attribute_name": "Dhytiki Ellas",
+        "attribute_id": "f0_17564"
+      },
+      {
+        "attribute_population": "292751",
+        "attribute_country": "f0_232",
+        "attribute_area": "9451",
+        "attribute_name": "Dhytiki Makedhonia",
+        "attribute_id": "f0_17567"
+      },
+      {
+        "attribute_population": "191003",
+        "attribute_country": "f0_232",
+        "attribute_area": "2307",
+        "attribute_name": "Ionioi Nisoi",
+        "attribute_id": "f0_17570"
+      },
+      {
+        "attribute_population": "339210",
+        "attribute_country": "f0_232",
+        "attribute_area": "9203",
+        "attribute_name": "Ipiros",
+        "attribute_id": "f0_17573"
+      },
+      {
+        "attribute_population": "1729581",
+        "attribute_country": "f0_232",
+        "attribute_area": "19147",
+        "attribute_name": "Kedriki Makedhonia",
+        "attribute_id": "f0_17576"
+      },
+      {
+        "attribute_population": "537183",
+        "attribute_country": "f0_232",
+        "attribute_area": "8336",
+        "attribute_name": "Kriti",
+        "attribute_id": "f0_17579"
+      },
+      {
+        "attribute_population": "262522",
+        "attribute_country": "f0_232",
+        "attribute_area": "5286",
+        "attribute_name": "Notion Aiyaion",
+        "attribute_id": "f0_17582"
+      },
+      {
+        "attribute_population": "605663",
+        "attribute_country": "f0_232",
+        "attribute_area": "15490",
+        "attribute_name": "Peloponnisos",
+        "attribute_id": "f0_17585"
+      },
+      {
+        "attribute_population": "578876",
+        "attribute_country": "f0_232",
+        "attribute_area": "15549",
+        "attribute_name": "Sterea Ellas",
+        "attribute_id": "f0_17588"
+      },
+      {
+        "attribute_population": "731030",
+        "attribute_country": "f0_232",
+        "attribute_area": "14037",
+        "attribute_name": "Thessalia",
+        "attribute_id": "f0_17591"
+      },
+      {
+        "attribute_population": "189541",
+        "attribute_country": "f0_232",
+        "attribute_area": "3836",
+        "attribute_name": "Voreion Aiyaion",
+        "attribute_id": "f0_17594"
+      }
+    ],
+    "ethnicgroups": {
+      "attribute_percentage": "98",
+      "value": "Greek"
+    },
+    "religions": [
+      {
+        "attribute_percentage": "1.3",
+        "value": "Muslim"
+      },
+      {
+        "attribute_percentage": "98",
+        "value": "Greek Orthodox"
+      }
+    ],
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": [
+      {
+        "attribute_country": "f0_136",
+        "attribute_length": "282"
+      },
+      {
+        "attribute_country": "f0_174",
+        "attribute_length": "494"
+      },
+      {
+        "attribute_country": "f0_300",
+        "attribute_length": "228"
+      },
+      {
+        "attribute_country": "f0_670",
+        "attribute_length": "206"
+      }
+    ]
+  },
+  {
+    "attribute_population": "62920",
+    "attribute_datacode": "GK",
+    "attribute_population_growth": "1.28",
+    "attribute_name": "Guernsey",
+    "attribute_infant_mortality": "9.2",
+    "attribute_government": "British crown dependency",
+    "attribute_id": "f0_239",
+    "attribute_inflation": "7",
+    "attribute_total_area": "194",
+    "attribute_capital": "f0_1528",
+    "name": "Guernsey",
+    "city": {
+      "attribute_country": "f0_239",
+      "attribute_id": "f0_1528",
+      "name": "Saint Peter Port"
+    },
+    "ethnicgroups": {
+      "attribute_percentage": "100",
+      "value": "UK Norman-French"
+    },
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    }
+  },
+  {
+    "attribute_population": "840",
+    "attribute_datacode": "VT",
+    "attribute_population_growth": "1.15",
+    "attribute_car_code": "V",
+    "attribute_indep_date": "11 02 1929",
+    "attribute_name": "Holy See",
+    "attribute_government": "monarchical sacerdotal state",
+    "attribute_id": "f0_244",
+    "attribute_total_area": "0.44",
+    "attribute_capital": "f0_1531",
+    "name": [
+      "Vatican City",
+      "Holy See"
+    ],
+    "city": {
+      "attribute_country": "f0_244",
+      "attribute_latitude": "41.5",
+      "attribute_longitude": "12.3",
+      "attribute_id": "f0_1531",
+      "name": "Vatican City",
+      "population": {
+        "attribute_year": "87",
+        "value": "392"
+      }
+    },
+    "religions": {
+      "attribute_percentage": "100",
+      "value": "Roman Catholic"
+    },
+    "encompassed": {
+      "attribute_percentage": "100",
+      "attribute_continent": "f0_119"
+    },
+    "border": {
+      "attribute_country": "f0_268",
+      "attribute_length": "3.2"
+    }
+  },
+  {
+    "attribute_gdp_total": "72500",
+    "attribute_population": "10002541",
+    "attribute_population_growth": "-0.68",
+    "attribute_datacode": "HU",
+    "attribute_car_code": "H",
+    "attribute_indep_date": "01 01 1001",
+    "attribute_gdp_ind": "37.5",
+    "attribute_name": "Hungary",
+    "attribute_infant_mortality": "12.3",
+    "attribute_government": "republic",
+    "attribute_id": "f0_251",
+    "attribute_inflation": "28.3",
+    "attribute_gdp_serv": "55.2",
+    "attribute_total_area": "93030",
+    "attribute_gdp_agri": "7.3",
+    "attribute_capital": "f0_1533",
+    "name": "Hungary",
+    "province": [
+      {
+        "attribute_population": "417100",
+        "attribute_country": "f0_251",
+        "attribute_area": "4487",
+        "attribute_name": "Baranya",
+        "attribute_id": "f0_17597",
+        "attribute_capital": "f0_3099",
+        "city": {
+          "attribute_country": "f0_251",
+          "attribute_province": "f0_17597 f0_17650",
+          "attribute_id": "f0_3099",
+          "name": "Pecs",
+          "population": {
+            "attribute_year": "92",
+            "value": "171000"
+          }
+        }
+      },
+      {
+        "attribute_population": "540800",
+        "attribute_country": "f0_251",
+        "attribute_area": "8363",
+        "attribute_name": "Bacs Kiskun",
+        "attribute_id": "f0_17600",
+        "attribute_capital": "f0_3105",
+        "city": {
+          "attribute_country": "f0_251",
+          "attribute_province": "f0_17600",
+          "attribute_id": "f0_3105",
+          "name": "Kecskemet",
+          "population": {
+            "attribute_year": "92",
+            "value": "105000"
+          }
+        }
+      },
+      {
+        "attribute_population": "404000",
+        "attribute_country": "f0_251",
+        "attribute_area": "5632",
+        "attribute_name": "Bekes",
+        "attribute_id": "f0_17602",
+        "attribute_capital": "f0_3147",
+        "city": {
+          "attribute_country": "f0_251",
+          "attribute_province": "f0_17602",
+          "attribute_id": "f0_3147",
+          "name": "Bekescaba"
+        }
+      },
+      {
+        "attribute_population": "749100",
+        "attribute_country": "f0_251",
+        "attribute_area": "7248",
+        "attribute_name": "Borsod Abauj Zemplen",
+        "attribute_id": "f0_17604",
+        "attribute_capital": "f0_3111",
+        "city": {
+          "attribute_country": "f0_251",
+          "attribute_province": "f0_17604 f0_17647",
+          "attribute_id": "f0_3111",
+          "name": "Miskolc",
+          "population": {
+            "attribute_year": "92",
+            "value": "192000"
+          }
+        }
+      },
+      {
+        "attribute_population": "437600",
+        "attribute_country": "f0_251",
+        "attribute_area": "4263",
+        "attribute_name": "Csongrad",
+        "attribute_id": "f0_17607",
+        "attribute_capital": "f0_3152",
+        "city": {
+          "attribute_country": "f0_251",
+          "attribute_province": "f0_17607",
+          "attribute_id": "f0_3152",
+          "name": "Hodmezovasarhely"
+        }
+      },
+      {
+        "attribute_population": "422500",
+        "attribute_country": "f0_251",
+        "attribute_area": "4374",
+        "attribute_name": "Fejer",
+        "attribute_id": "f0_17609",
+        "attribute_capital": "f0_3117",
+        "city": {
+          "attribute_country": "f0_251",
+          "attribute_province": "f0_17609",
+          "attribute_id": "f0_3117",
+          "name": "Szekesfehervar",
+          "population": {
+            "attribute_year": "92",
+            "value": "109000"
+          }
+        }
+      },
+      {
+        "attribute_population": "426800",
+        "attribute_country": "f0_251",
+        "attribute_area": "4012",
+        "attribute_name": "Gyor Sopron",
+        "attribute_id": "f0_17611",
+        "attribute_capital": "f0_3123",
+        "city": {
+          "attribute_country": "f0_251",
+          "attribute_province": "f0_17611 f0_17644",
+          "attribute_id": "f0_3123",
+          "name": "Gyor",
+          "population": {
+            "attribute_year": "92",
+            "value": "130000"
+          }
+        }
+      },
+      {
+        "attribute_population": "549700",
+        "attribute_country": "f0_251",
+        "attribute_area": "6212",
+        "attribute_name": "Hajdu Bihar",
+        "attribute_id": "f0_17614",
+        "attribute_capital": "f0_3129",
+        "city": {
+          "attribute_country": "f0_251",
+          "attribute_province": "f0_17614 f0_17641",
+          "attribute_id": "f0_3129",
+          "name": "Debrecen",
+          "population": {
+            "attribute_year": "92",
+            "value": "216000"
+          },
+          "xml_repository": "ALERT: data truncated here for web previewing."
+        }
+      }
+    ]
+  }
+]

@@ -5,7 +5,6 @@
         <lastname>kad</lastname>
         <nickname>dinkar</nickname>
         <marks>85</marks>
-        <weight>67.5</weight>
     </student>
 
     <student rollno = "493">
@@ -17,7 +16,7 @@
 
     <student rollno = "593">
         <firstname>jasvir</firstname>
-        <lastname>singh</lastname>
+        <lastname>singn</lastname>
         <nickname>jazz</nickname>
         <marks>90</marks>
     </student>
