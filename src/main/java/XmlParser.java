@@ -10,7 +10,6 @@ public class XmlParser {
         if(depth == 0) {
             String key = xmlInputStream.getLocalName();
             Object obj = ((Map)xmlInputStream.getChildEvents()).get(key);
-            System.out.println(obj);
             List<Object> list = new LinkedList<>();
             list.add(obj);
             return list;
